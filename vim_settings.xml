@@ -373,6 +373,13 @@
         <mark key="." line="543" column="47" />
         <mark key="[" line="543" column="47" />
       </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/DialogUtils.java" timestamp="1447841765909">
+        <mark key="'" line="32" column="33" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+        <mark key="[" line="22" column="67" />
+      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchHotWordsView.java" timestamp="1447641058699">
         <mark key="'" line="210" column="24" />
       </file>
@@ -408,12 +415,12 @@
       <file name="/fragment.java" timestamp="1447839197635">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdWallController.java" timestamp="1447840200380">
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdWallController.java" timestamp="1447841865034">
         <mark key="'" line="23" column="17" />
-        <mark key="]" line="80" column="92" />
-        <mark key="^" line="80" column="92" />
-        <mark key="." line="80" column="92" />
-        <mark key="[" line="80" column="58" />
+        <mark key="]" line="44" column="98" />
+        <mark key="^" line="44" column="98" />
+        <mark key="." line="44" column="98" />
+        <mark key="[" line="44" column="99" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/ItemSector.java" timestamp="1447830804650">
         <mark key="'" line="36" column="21" />
@@ -440,7 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="14" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/RecentWeatherView.java" />
       <jump line="300" column="14" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/RecentWeatherView.java" />
       <jump line="301" column="19" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/RecentWeatherView.java" />
       <jump line="310" column="65" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/RecentWeatherView.java" />
@@ -540,10 +546,11 @@
       <jump line="454" column="0" filename="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" />
       <jump line="69" column="12" filename="E:/Apps/HolaLauncher/src/com/hola/launcher/widget/picks/MobvistaAdWallController.java" />
       <jump line="49" column="49" filename="E:/Apps/HolaLauncher/src/com/hola/launcher/widget/picks/MobvistaAdWallController.java" />
+      <jump line="30" column="33" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/DialogUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKgogICAgICAgICAgICAgICAgICAgIGlmICh0cnlEb3dubG9hZCkgewo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icG9wdXBfc2hhcmUiPiJTaGFyZSI8L3N0cmluZz4K</text>
@@ -555,37 +562,37 @@
         <text>GameAc</text>
       </register>
       <register name="-" type="4">
-        <text>/*boolean tryDownload = */</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>/*boolean tryDownload = */</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAqLwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKgogICAgICAgICAgICAgICAgICAgIGlmICh0cnlEb3dubG9hZCkgewo=</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iQHN0cmluZy9wcmVmX3RpdGxlX2dhbWUiCiAgICAgICAgICAgIGFuZHJvaWQ6aWNvbj0iQGRyYXdhYmxlL3dpZGdldF9vbW5pX2dhbWUiCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>pref_title_game</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>widget_omni_game</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>void</text>
       </register>
+      <register name="4" type="4">
+        <text>/*boolean tryDownload = */</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FindUsages</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sYXp5c3dpcGUuZmFuLmRhdGEuVGFiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -684,8 +691,8 @@
         <entry encoding="base64">JXMvXDxOZXR3b3JrVXRpbHNcPi9OZXRVdGlscy9n</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action FindUsages</entry>
         <entry>w</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
