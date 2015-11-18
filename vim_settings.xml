@@ -10,6 +10,12 @@
         <mark key="." line="147" column="63" />
         <mark key="[" line="143" column="18" />
       </file>
+      <file name="E:/Apps/LazySwipe/app/src/global/res/values-es/strings.xml" timestamp="1447852395377">
+        <mark key="'" line="542" column="4" />
+        <mark key="]" line="542" column="58" />
+        <mark key="." line="542" column="0" />
+        <mark key="[" line="542" column="0" />
+      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiAppsChooserPanel.java" timestamp="1447829125859">
         <mark key="'" line="234" column="33" />
         <mark key="]" line="750" column="32" />
@@ -24,11 +30,12 @@
         <mark key="." line="22" column="0" />
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/notification/sms/ContactData.java" timestamp="1447666806941">
-        <mark key="]" line="231" column="59" />
-        <mark key="^" line="231" column="57" />
-        <mark key="." line="231" column="57" />
-        <mark key="[" line="231" column="0" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/analysis/SwipeAnalysis.java" timestamp="1447854786612">
+        <mark key="[" line="48" column="7" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/global/res/values-pl/strings.xml" timestamp="1447852269161">
+        <mark key="'" line="546" column="3" />
+        <mark key="[" line="544" column="86" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/PicksShortcut.java" timestamp="1447839719476">
         <mark key="'" line="26" column="0" />
@@ -36,6 +43,18 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/global/res/values-th/strings.xml" timestamp="1447852227401">
+        <mark key="'" line="397" column="4" />
+        <mark key="]" line="397" column="55" />
+        <mark key="." line="397" column="0" />
+        <mark key="[" line="397" column="0" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/res/values-zh-rTW/strings.xml" timestamp="1447852463974">
+        <mark key="'" line="404" column="4" />
+        <mark key="]" line="404" column="51" />
+        <mark key="." line="404" column="0" />
+        <mark key="[" line="404" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/CustomProgressDialog.java" timestamp="1447844312421">
         <mark key="'" line="66" column="70" />
@@ -57,24 +76,12 @@
         <mark key="." line="153" column="15" />
         <mark key="[" line="153" column="15" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/hetero/iwatch/WatchItemSector.java" timestamp="1447381049313">
-        <mark key="]" line="345" column="14" />
-        <mark key="^" line="345" column="14" />
-        <mark key="." line="345" column="14" />
-        <mark key="[" line="345" column="12" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/weather/WeatherDataWrapper.java" timestamp="1447817631565">
         <mark key="'" line="17" column="0" />
         <mark key="]" line="48" column="65" />
         <mark key="^" line="50" column="26" />
         <mark key="." line="50" column="26" />
         <mark key="[" line="48" column="51" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/locate/amap/AMapLocateSdkImpl.java" timestamp="1447837324832">
-        <mark key="]" line="12" column="71" />
-        <mark key="^" line="12" column="71" />
-        <mark key="." line="12" column="71" />
-        <mark key="[" line="11" column="47" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/DynamicSdkUtils.java" timestamp="1447841540792">
         <mark key="[" line="143" column="18" />
@@ -100,13 +107,24 @@
         <mark key="." line="78" column="61" />
         <mark key="[" line="93" column="29" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/MusicTile.java" timestamp="1447649572609">
-        <mark key="]" line="85" column="25" />
-        <mark key="^" line="85" column="25" />
-        <mark key="." line="85" column="25" />
-        <mark key="[" line="85" column="15" />
+      <file name="E:/Apps/LazySwipe/app/src/global/res/values-ko/strings.xml" timestamp="1447852323698">
+        <mark key="'" line="394" column="3" />
+        <mark key="[" line="392" column="75" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/res/values-zh-rCN/strings.xml" timestamp="1447852805776">
+        <mark key="'" line="542" column="3" />
+        <mark key="[" line="540" column="68" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/analysis/Analysis.java" timestamp="1447853419943">
+        <mark key="]" line="31" column="47" />
+        <mark key="^" line="31" column="47" />
+        <mark key="." line="31" column="47" />
+        <mark key="[" line="31" column="39" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/AppInfo.java" timestamp="1447840947990" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/SectorArea.java" timestamp="1447832451216">
+        <mark key="'" line="525" column="12" />
+      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/res/layout/weather_details_ad_view.xml" timestamp="1447835492012">
         <mark key="'" line="71" column="46" />
         <mark key="]" line="74" column="33" />
@@ -121,19 +139,26 @@
         <mark key="." line="279" column="90" />
         <mark key="[" line="279" column="91" />
       </file>
+      <file name="E:/Apps/LazySwipe/app/src/global/res/values-nl/strings.xml" timestamp="1447852905034">
+        <mark key="'" line="585" column="37" />
+        <mark key="]" line="613" column="59" />
+        <mark key="." line="613" column="0" />
+        <mark key="[" line="613" column="0" />
+      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/GgNativeSdkImpl.java" timestamp="1447837514436">
         <mark key="]" line="47" column="74" />
         <mark key="^" line="17" column="70" />
         <mark key="." line="17" column="70" />
         <mark key="[" line="47" column="40" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/WeatherSettingsFragment.java" timestamp="1447817340456">
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="[" line="13" column="0" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipeService.java" timestamp="1447850667294" />
+      <file name="E:/Apps/LazySwipe/app/src/global/res/values-pt/strings.xml" timestamp="1447852252673">
+        <mark key="'" line="519" column="4" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/global/res/values-el/strings.xml" timestamp="1447852189121">
+        <mark key="'" line="516" column="3" />
+        <mark key="[" line="514" column="121" />
+      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/CalculatorTile.java" timestamp="1447827934786">
         <mark key="'" line="19" column="13" />
         <mark key="]" line="119" column="19" />
@@ -141,11 +166,13 @@
         <mark key="." line="119" column="19" />
         <mark key="[" line="118" column="9" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/Tile.java" timestamp="1447654610018">
-        <mark key="]" line="9" column="82" />
-        <mark key="^" line="9" column="82" />
-        <mark key="." line="9" column="82" />
-        <mark key="[" line="9" column="82" />
+      <file name="E:/Apps/LazySwipe/app/src/global/res/values-ar/strings.xml" timestamp="1447852426116">
+        <mark key="'" line="529" column="3" />
+        <mark key="[" line="527" column="77" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/global/res/values-in/strings.xml" timestamp="1447852358476">
+        <mark key="'" line="505" column="3" />
+        <mark key="[" line="503" column="89" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/TileHelper.java" timestamp="1447840497101">
         <mark key="'" line="97" column="33" />
@@ -168,6 +195,12 @@
         <mark key="." line="14" column="0" />
         <mark key="[" line="14" column="0" />
       </file>
+      <file name="E:/Apps/LazySwipe/app/src/global/res/values-tr/strings.xml" timestamp="1447852210102">
+        <mark key="'" line="587" column="4" />
+        <mark key="]" line="587" column="65" />
+        <mark key="." line="587" column="0" />
+        <mark key="[" line="587" column="0" />
+      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiChooserPanel.java" timestamp="1447829271210">
         <mark key="'" line="45" column="13" />
         <mark key="]" line="45" column="32" />
@@ -175,23 +208,12 @@
         <mark key="." line="45" column="32" />
         <mark key="[" line="45" column="33" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/AppModel.java" timestamp="1447840858415">
-        <mark key="]" line="752" column="0" />
-        <mark key="." line="752" column="0" />
-        <mark key="[" line="752" column="0" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/res/values/strings.xml" timestamp="1447851200920">
         <mark key="'" line="178" column="59" />
         <mark key="]" line="543" column="47" />
         <mark key="^" line="543" column="47" />
         <mark key="." line="543" column="47" />
         <mark key="[" line="543" column="47" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdManager.java" timestamp="1447848293334">
-        <mark key="]" line="214" column="30" />
-        <mark key="^" line="214" column="30" />
-        <mark key="." line="214" column="30" />
-        <mark key="[" line="214" column="18" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/DialogUtils.java" timestamp="1447850863433">
         <mark key="'" line="32" column="33" />
@@ -203,11 +225,6 @@
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdWallWrapper.java" timestamp="1447837844723">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="8" column="36" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/res/values-rUS/config.xml" timestamp="1447815341802">
-        <mark key="]" line="2" column="74" />
-        <mark key="." line="2" column="74" />
-        <mark key="[" line="2" column="73" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/PicksActivity.java" timestamp="1447841122763">
         <mark key="'" line="45" column="0" />
@@ -227,24 +244,12 @@
         <mark key="." line="53" column="0" />
         <mark key="[" line="53" column="0" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipePrefs.java" timestamp="1447835080022">
-        <mark key="]" line="349" column="29" />
-        <mark key="^" line="349" column="29" />
-        <mark key="." line="349" column="29" />
-        <mark key="[" line="349" column="17" />
-      </file>
       <file name="E:/Apps/HolaLauncher/src/com/hola/launcher/widget/picks/MobvistaAdWallController.java" timestamp="1447841319164">
         <mark key="'" line="49" column="49" />
         <mark key="]" line="131" column="12" />
         <mark key="^" line="131" column="12" />
         <mark key="." line="131" column="12" />
         <mark key="[" line="131" column="12" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/res/values/config.xml" timestamp="1447815110169">
-        <mark key="]" line="21" column="84" />
-        <mark key="^" line="21" column="48" />
-        <mark key="." line="21" column="74" />
-        <mark key="[" line="21" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaSdkImpl.java" timestamp="1447837798471">
         <mark key="'" line="0" column="0" />
@@ -253,33 +258,9 @@
         <mark key="." line="42" column="0" />
         <mark key="[" line="42" column="0" />
       </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ScreenKeyboardMonitor.java" timestamp="1447854946536" />
     </filemarks>
     <jumps>
-      <jump line="4875" column="55" filename="E:/Apps/HolaLauncher/src/com/hola/launcher/Launcher.java" />
-      <jump line="26" column="3" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="778" column="88" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="785" column="63" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="777" column="57" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="109" column="9" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="852" column="16" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="847" column="16" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="849" column="33" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="92" column="58" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="170" column="57" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="171" column="40" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="179" column="64" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="267" column="48" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="559" column="82" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="565" column="82" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="600" column="82" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="638" column="82" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="648" column="35" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="652" column="82" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="663" column="36" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="674" column="79" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="720" column="53" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="724" column="56" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
-      <jump line="725" column="34" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
       <jump line="727" column="64" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
       <jump line="730" column="44" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
       <jump line="731" column="41" filename="E:/Apps/HolaLauncher/AndroidManifest.xml" />
@@ -355,10 +336,36 @@
       <jump line="12" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/AppFilter.java" />
       <jump line="223" column="43" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/AppFilter.java" />
       <jump line="178" column="59" filename="E:/Apps/LazySwipe/app/src/main/res/values/strings.xml" />
+      <jump line="20" column="71" filename="E:/Apps/LazySwipe/app/src/global/res/values-el/strings.xml" />
+      <jump line="516" column="3" filename="E:/Apps/LazySwipe/app/src/global/res/values-el/strings.xml" />
+      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/global/res/values-tr/strings.xml" />
+      <jump line="587" column="4" filename="E:/Apps/LazySwipe/app/src/global/res/values-tr/strings.xml" />
+      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/global/res/values-th/strings.xml" />
+      <jump line="397" column="4" filename="E:/Apps/LazySwipe/app/src/global/res/values-th/strings.xml" />
+      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/global/res/values-pt/strings.xml" />
+      <jump line="519" column="4" filename="E:/Apps/LazySwipe/app/src/global/res/values-pt/strings.xml" />
+      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/global/res/values-pl/strings.xml" />
+      <jump line="546" column="3" filename="E:/Apps/LazySwipe/app/src/global/res/values-pl/strings.xml" />
+      <jump line="28" column="52" filename="E:/Apps/LazySwipe/app/src/global/res/values-nl/strings.xml" />
+      <jump line="613" column="4" filename="E:/Apps/LazySwipe/app/src/global/res/values-nl/strings.xml" />
+      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/global/res/values-ko/strings.xml" />
+      <jump line="394" column="3" filename="E:/Apps/LazySwipe/app/src/global/res/values-ko/strings.xml" />
+      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/global/res/values-in/strings.xml" />
+      <jump line="505" column="3" filename="E:/Apps/LazySwipe/app/src/global/res/values-in/strings.xml" />
+      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/global/res/values-es/strings.xml" />
+      <jump line="542" column="4" filename="E:/Apps/LazySwipe/app/src/global/res/values-es/strings.xml" />
+      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/global/res/values-ar/strings.xml" />
+      <jump line="529" column="3" filename="E:/Apps/LazySwipe/app/src/global/res/values-ar/strings.xml" />
+      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/main/res/values-zh-rTW/strings.xml" />
+      <jump line="404" column="4" filename="E:/Apps/LazySwipe/app/src/main/res/values-zh-rTW/strings.xml" />
+      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/main/res/values-zh-rCN/strings.xml" />
+      <jump line="542" column="3" filename="E:/Apps/LazySwipe/app/src/main/res/values-zh-rCN/strings.xml" />
+      <jump line="585" column="37" filename="E:/Apps/LazySwipe/app/src/global/res/values-nl/strings.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbURpYWxvZy5kaXNtaXNzKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>NotificationPopup popup = NotificationPopup.getInstance();
+        if (null != popup) addOnSoftKeyboardChangedListener(popup);</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icG9wdXBfc2hhcmUiPiJTaGFyZSI8L3N0cmluZz4K</text>
@@ -367,51 +374,58 @@
         <text>SDK_INFO_URL</text>
       </register>
       <register name="/" type="4">
-        <text>Game</text>
+        <text>Hola</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>boolean enabled = SwipeNotification.isEnabled(context);</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKFRBRywgImRpc21pc3MgZGlhbG9nIGZhaWxlZCBhbmQgc2FmZWx5IGlnbm9yZWQuIiwgZSk7Cg==</text>
+      <register name="3" type="4">
+        <text>NotificationPopup popup = NotificationPopup.getInstance();
+        if (null != popup) addOnSoftKeyboardChangedListener(popup);</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>NotificationPopup popup = NotificationPopup.getInstance();
+        if (null != popup) addOnSoftKeyboardChangedListener(popup);</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbURpYWxvZy5kaXNtaXNzKCk7Cg==</text>
+      <register name="1" type="4">
+        <text>NotificationPopup popup = NotificationPopup.getInstance();
+        if (null != popup) addOnSoftKeyboardChangedListener(popup);</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoREVCVUcpIExvZy5kKEFwcE1vZGVsLlRBRywgIkZpbHRlcmVkIG91dCBhZGRpdGlvbmFsIHBhY2thZ2U6ICIgKyB0KTsK</text>
+      <register name="0" type="4">
+        <text>enabled</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKCFBZE1hbmFnZXIuaXNBZEVuYWJsZWQoKSkgewogICAgICAgICAgICAvLyDDu9PQueO45gogICAgICAgICAgICBTdHJpbmcgY2xhc3NOYW1lID0gY24uZ2V0Q2xhc3NOYW1lKCk7CiAgICAgICAgICAgIGlmIChHYW1lQWN0aXZpdHkuY2xhc3MuZ2V0TmFtZSgpLmVxdWFscyhjbGFzc05hbWUpCiAgICAgICAgICAgICAgICAgICAgfHwgUGlja3NBY3Rpdml0eS5jbGFzcy5nZXROYW1lKCkuZXF1YWxzKGNsYXNzTmFtZSkpIHsKICAgICAgICAgICAgICAgIGlmIChERUJVRykgTG9nLmQoQXBwTW9kZWwuVEFHLCAiRmlsdGVyZWQgb3V0ICIgKyBjbGFzc05hbWUgKyAiIGFzIGFkIHVuYXZhaWxhYmxlIik7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text>boolean enabled = SwipeNotification.isEnabled(context);</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKEJ1aWxkQ29uZmlnLkxPR0UpIHsK</text>
+      <register name="6" type="4">
+        <text>boolean</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="5" type="4">
+        <text>boolean enabled = SwipeNotification.isEnabled(context);</text>
       </register>
-      <register name="4" type="4">
-        <text>e</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25Qb3B1cCBwb3B1cCA9IE5vdGlmaWNhdGlvblBvcHVwLmdldEluc3RhbmNlKCk7CiAgICAgICAgaWYgKG51bGwgIT0gcG9wdXApIGFkZE9uU29mdEtleWJvYXJkQ2hhbmdlZExpc3RlbmVyKHBvcHVwKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>source ~/.ideavimrc</text>
       </register>
       <register name="9" type="4">
-        <text>:</text>
+        <text>boolean enabled = SwipeNotification.isEnabled(context);</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text />
+      </register>
+      <register name="z" type="4">
+        <text>NotificationPopup popup = NotificationPopup.getInstance();
+        if (null != popup) addOnSoftKeyboardChangedListener(popup);</text>
       </register>
     </registers>
     <search>
       <last-search>Game</last-search>
       <last-offset />
-      <last-pattern>Game</last-pattern>
-      <last-replace>NetUtils</last-replace>
-      <last-substitute encoding="base64">XDxOZXR3b3JrVXRpbHNcPg==</last-substitute>
+      <last-pattern>Hola</last-pattern>
+      <last-replace>Omni</last-replace>
+      <last-substitute>Hola</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -483,6 +497,7 @@
         <entry>isDef</entry>
         <entry encoding="base64">XDxwcmVmXD4=</entry>
         <entry>Game</entry>
+        <entry>Hola</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist find</entry>
@@ -490,7 +505,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry>ls</entry>
         <entry>actionlist imple</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry encoding="base64">JzwsJz5zLykpLywgcmVzb3VyY2Vz</entry>
         <entry encoding="base64">JzwsJz5zL1wocmVzb3VyY2VzXCk7L1wxKSk7</entry>
         <entry encoding="base64">JzwsJz5zL1N5c3RlbVNldHRpbmdzL0FwcC9n</entry>
@@ -504,7 +518,10 @@
         <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
+        <entry encoding="base64">JzwsJz5zL0hvbGEvT21uaQ==</entry>
         <entry>w</entry>
+        <entry>e!</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -569,6 +586,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed TAB</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
