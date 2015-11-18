@@ -166,7 +166,7 @@
       <file name="D:/android-sdk/platforms/android-23/data/res/values/styles.xml" timestamp="1447245216090">
         <mark key="'" line="153" column="54" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/res/xml/pref_weather_settings.xml" timestamp="1447818281285">
+      <file name="E:/Apps/LazySwipe/app/src/main/res/xml/pref_weather_settings.xml" timestamp="1447825104416">
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
@@ -285,9 +285,15 @@
         <mark key="'" line="31" column="2" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipePrefs.java" timestamp="1447818099124">
-        <mark key="]" line="1260" column="0" />
-        <mark key="." line="1260" column="0" />
-        <mark key="[" line="1260" column="0" />
+        <mark key="]" line="1262" column="0" />
+        <mark key="." line="1262" column="0" />
+        <mark key="[" line="1262" column="0" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/SettingsFragment.java" timestamp="1447825615882">
+        <mark key="'" line="220" column="8" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="[" line="47" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/res/values/config.xml" timestamp="1447815110169">
         <mark key="]" line="21" column="84" />
@@ -309,7 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="493" column="33" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
       <jump line="326" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchScrollableAdsNativeView.java" />
       <jump line="48" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchScrollableAdsNativeView.java" />
       <jump line="226" column="27" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdController.java" />
@@ -409,10 +414,11 @@
       <jump line="685" column="56" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/BaseItemLayer.java" />
       <jump line="687" column="56" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/BaseItemLayer.java" />
       <jump line="689" column="52" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/BaseItemLayer.java" />
+      <jump line="225" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/SettingsFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmFuLmdldEluc3RhbmNlKCkucmVQb3B1cChmYWxzZSk7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBjb20ubGF6eXN3aXBlLmZlYXR1cmVzLnFzZWFyY2guU2VhcmNoQWN0aXZpdHk7Cj09PT09PT0KaW1wb3J0IGNvbS5sYXp5c3dpcGUuZmVhdHVyZXMuY2xlYW5lci5NZW1vcnlUaXA7Cj4+Pj4+Pj4gbWFzdGVyCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icG9wdXBfc2hhcmUiPiJTaGFyZSI8L3N0cmluZz4K</text>
@@ -427,37 +433,37 @@
         <text encoding="base64">IHs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IG1hc3Rlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS08Y29tLmxhenlzd2lwZS5wcmVmZXJlbmNlLlRlbXBlcmF0dXJlVW5pdFByZWZlcmVuY2UtLT4KICAgICAgICA8IS0tYW5kcm9pZDp0aXRsZT0iQHN0cmluZy9jbG9ja3dlYXRoZXJfc2V0dGluZ3NfdW5pdCItLT4KICAgICAgICA8IS0tbGF6eTpwb3NpdGlvbj0idG9wIiAvPi0tPgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBjb20ubGF6eXN3aXBlLmZlYXR1cmVzLnFzZWFyY2guU2VhcmNoQWN0aXZpdHk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmFuLmdldEluc3RhbmNlKCkucmVQb3B1cChmYWxzZSk7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBjb20ubGF6eXN3aXBlLmZlYXR1cmVzLnFzZWFyY2guU2VhcmNoQWN0aXZpdHk7Cj09PT09PT0KaW1wb3J0IGNvbS5sYXp5c3dpcGUuZmVhdHVyZXMuY2xlYW5lci5NZW1vcnlUaXA7Cj4+Pj4+Pj4gbWFzdGVyCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAocHJlZmVyZW5jZSBpbnN0YW5jZW9mIE15TGlzdFByZWZlcmVuY2UpIHsKICAgICAgICAgICAgTXlMaXN0UHJlZmVyZW5jZSBwID0gKE15TGlzdFByZWZlcmVuY2UpIHByZWZlcmVuY2U7CiAgICAgICAgICAgIENoYXJTZXF1ZW5jZSBzdW1tYXJ5ID0gcC5nZXRFbnRyaWVzKClbcC5maW5kSW5kZXhPZlZhbHVlKChTdHJpbmcpIG5ld1ZhbHVlKV07CiAgICAgICAgICAgIHAuc2V0U3VtbWFyeShzdW1tYXJ5KTsKICAgICAgICAgICAgaWYgKERFQlVHKSB7CiAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJQcmVmZXJlbmNlIHNldCB0bzogIiArIHN1bW1hcnkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uUmVzdW1lKCkgewogICAgICAgIHN1cGVyLm9uUmVzdW1lKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBUQUcgPSBUQUdfUFJFRklYICsgV2VhdGhlclNldHRpbmdzRnJhZ21lbnQuY2xhc3MuZ2V0U2ltcGxlTmFtZSgpOwo=</text>
+        <text encoding="base64">ICAgIDwhLS08Y29tLmxhenlzd2lwZS5wcmVmZXJlbmNlLlRlbXBlcmF0dXJlVW5pdFByZWZlcmVuY2UtLT4KICAgICAgICA8IS0tYW5kcm9pZDp0aXRsZT0iQHN0cmluZy9jbG9ja3dlYXRoZXJfc2V0dGluZ3NfdW5pdCItLT4KICAgICAgICA8IS0tbGF6eTpwb3NpdGlvbj0idG9wIiAvPi0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmFuLmdldEluc3RhbmNlKCkucmVQb3B1cChmYWxzZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uUmVzdW1lKCkgewogICAgICAgIHN1cGVyLm9uUmVzdW1lKCk7CiAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBUQUcgPSBUQUdfUFJFRklYICsgV2VhdGhlclNldHRpbmdzRnJhZ21lbnQuY2xhc3MuZ2V0U2ltcGxlTmFtZSgpOwo=</text>
       </register>
     </registers>
     <search>
