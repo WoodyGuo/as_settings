@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="jg" type="Images" />
+      <mapping ext="pg" type="Images" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="seekbar_thumb_normal" type="PLAIN_TEXT" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping pattern="dialer_styles" type="XML" />
+    </extensionMap>
+  </component>
+</application>

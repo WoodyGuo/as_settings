@@ -1,0 +1,141 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="PropertiesSeparatorManager">
+    <file url="file://$USER_HOME$/android/apps/LazySwipe/gradle.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/android/apps/QiiGameLib/gradle.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/android/apps/QiiGameLib/local.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/android/apps/LazySwipe/gradle/wrapper/gradle-wrapper.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/android/apps/FLockerGlobal/local.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/android/apps/QiiGameLib/gradle/wrapper/gradle-wrapper.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/android/apps/FLocker/local.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/android/apps/360Screenlock/local.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/android/apps/FLockerWidget/local.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/android/apps/FLockerWidget/gradle.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/android/apps/Cube/gradle.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/android/apps/FLocker/project.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/.gradle/gradle.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/android/apps/LazySwipe/local.properties" separator="\u002e" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="true" url="http://qiigame.eatuo.com:18082">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>df92df9bdf9adf9cdf98df99</password>
+      <option name="jiraVersion" value="6.1.4" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="project in (SWIPE, LAZY)  and resolution in (Unresolved, Later) and status in (Open, Reopened) and assignee != empty and assignee != nia and assignee != &quot;sc.dong&quot; order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>woody</username>
+    </JIRA>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_METHOD" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Find Usages" />
+        <option value="Gradle Invocation (errors)" />
+        <option value="Gradle Invocation (success)" />
+      </set>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <resource url="http://schemas.android.com/apk/res/android" location="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/XMLSchema.dtd" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+</application>

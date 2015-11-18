@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Edit in Gvim" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Program Files (x86)\Vim\vim74\gvim.exe" />
+      <option name="PARAMETERS" value="--servername VimStudio --remote-silent +&quot;call cursor($LineNumber$,$ColumnNumber$)&quot; $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

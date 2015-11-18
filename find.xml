@@ -1,0 +1,11 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File 'E:\Apps\LazySwipe\app\src\main\res\layout\banner_card_news.xml'" />
+    <option name="defaultScopeName" value="File 'E:\Apps\LazySwipe\app\src\main\res\layout\banner_card_news.xml'" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="File 'E:\Apps\LazySwipe\app\src\main\res\layout\banner_card_news.xml'" />
+  </component>
+</application>
