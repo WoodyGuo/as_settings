@@ -10,12 +10,6 @@
         <mark key="." line="147" column="63" />
         <mark key="[" line="143" column="18" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/WeatherSettingsFragment.java" timestamp="1447817340456">
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="[" line="13" column="0" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiAppsChooserPanel.java" timestamp="1447827392752">
         <mark key="'" line="234" column="33" />
         <mark key="]" line="341" column="89" />
@@ -44,20 +38,8 @@
       <file name="D:/android-sdk/sources/android-23/android/view/ViewGroup.java" timestamp="1447233954104">
         <mark key="'" line="6867" column="10" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/game/GameFragment.java" timestamp="1447755600408">
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="95" column="66" />
-        <mark key="." line="22" column="0" />
-        <mark key="[" line="22" column="0" />
-      </file>
       <file name="D:/android-sdk/sources/android-22/java/util/concurrent/FutureTask.java" timestamp="1446793500302">
         <mark key="'" line="122" column="18" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/notification/sms/ContactData.java" timestamp="1447666806941">
-        <mark key="]" line="231" column="59" />
-        <mark key="^" line="231" column="57" />
-        <mark key="." line="231" column="57" />
-        <mark key="[" line="231" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/BaseItemLayer.java" timestamp="1447819130480">
         <mark key="'" line="689" column="52" />
@@ -159,14 +141,15 @@
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/CascadingCard.java" timestamp="1446770747454">
         <mark key="'" line="691" column="23" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/Tile.java" timestamp="1447654610018">
-        <mark key="]" line="9" column="82" />
-        <mark key="^" line="9" column="82" />
-        <mark key="." line="9" column="82" />
-        <mark key="[" line="9" column="82" />
-      </file>
       <file name="D:/android-sdk/sources/android-22/android/widget/PopupMenu.java" timestamp="1447135152713">
         <mark key="'" line="235" column="16" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiSwitchersChooserPanel.java" timestamp="1447828841053">
+        <mark key="'" line="51" column="31" />
+        <mark key="]" line="146" column="11" />
+        <mark key="^" line="146" column="11" />
+        <mark key="." line="146" column="11" />
+        <mark key="[" line="145" column="31" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/light/LedLightCamera.java" timestamp="1447827579712">
         <mark key="'" line="0" column="0" />
@@ -199,12 +182,6 @@
         <mark key="." line="50" column="26" />
         <mark key="[" line="48" column="51" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/hetero/iwatch/WatchItemSector.java" timestamp="1447381049313">
-        <mark key="]" line="345" column="14" />
-        <mark key="^" line="345" column="14" />
-        <mark key="." line="345" column="14" />
-        <mark key="[" line="345" column="12" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/RingerModeTile.java" timestamp="1447337273450">
         <mark key="'" line="36" column="13" />
       </file>
@@ -220,6 +197,9 @@
         <mark key="^" line="248" column="23" />
         <mark key="." line="248" column="23" />
         <mark key="[" line="247" column="47" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiChooserPanel.java" timestamp="1447828863772">
+        <mark key="'" line="219" column="25" />
       </file>
       <file name="D:/android-sdk/platforms/android-21/android.jar!/android/view/View.class" timestamp="1447231034876">
         <mark key="'" line="279" column="19" />
@@ -239,12 +219,6 @@
       </file>
       <file name="D:/android-sdk/sources/android-22/android/view/Menu.java" timestamp="1447131718005">
         <mark key="'" line="167" column="20" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdManager.java" timestamp="1447760224841">
-        <mark key="]" line="134" column="0" />
-        <mark key="^" line="130" column="34" />
-        <mark key="." line="134" column="0" />
-        <mark key="[" line="134" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/NotificationSettingsFragment.java" timestamp="1447386534891">
         <mark key="'" line="60" column="49" />
@@ -281,12 +255,6 @@
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchWebActivity.java" timestamp="1447761802146">
         <mark key="'" line="25" column="28" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/MusicTile.java" timestamp="1447649572609">
-        <mark key="]" line="85" column="25" />
-        <mark key="^" line="85" column="25" />
-        <mark key="." line="85" column="25" />
-        <mark key="[" line="85" column="15" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/res/values-xxhdpi/dimens.xml" timestamp="1447334008055">
         <mark key="'" line="7" column="17" />
@@ -327,12 +295,6 @@
         <mark key="." line="47" column="0" />
         <mark key="[" line="47" column="0" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/res/values/config.xml" timestamp="1447815110169">
-        <mark key="]" line="21" column="84" />
-        <mark key="^" line="21" column="48" />
-        <mark key="." line="21" column="74" />
-        <mark key="[" line="21" column="0" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/data/RecentUsedTab.java" timestamp="1447828036180">
         <mark key="'" line="120" column="33" />
         <mark key="]" line="120" column="52" />
@@ -354,9 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="733" column="24" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="918" column="48" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="928" column="51" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
       <jump line="942" column="84" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
       <jump line="943" column="51" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
       <jump line="714" column="33" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
@@ -454,10 +413,13 @@
       <jump line="417" column="50" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/light/LedLightCamera.java" />
       <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/light/LedLightCamera.java" />
       <jump line="19" column="13" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/CalculatorTile.java" />
+      <jump line="50" column="31" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiSwitchersChooserPanel.java" />
+      <jump line="51" column="31" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiSwitchersChooserPanel.java" />
+      <jump line="219" column="25" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiChooserPanel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isCalculatorTileChosen</text>
+        <text>?</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icG9wdXBfc2hhcmUiPiJTaGFyZSI8L3N0cmluZz4K</text>
@@ -466,49 +428,49 @@
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGNhbGNQYWNrYWdlTmFtZSA9IFRpbGVIZWxwZXIuaXNDYWxjdWxhdG9yQ2hvc2VuKGFwcCkgCiAgICAgICAgICAgICAgICAgICAgPyBDYWxjdWxhdG9yVGlsZS5nZXRQYWNrYWdlTmFtZShhcHApOiBudWxsOwo=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBc3luY1Rhc2tcPg==</text>
+        <text encoding="base64">XDxtQ3VycmVudFRpbGVzTGlzdFw+</text>
       </register>
       <register name="-" type="4">
-        <text>isCalculatorTileChosen</text>
+        <text>?</text>
       </register>
-      <register name="3" type="4">
-        <text>app</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGhhZENhbGNUaXRsZSA9IFRpbGVIZWxwZXIuaXNDYWxjdWxhdG9yQ2hvc2VuKGdldENvbnRleHQoKSk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>app</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="1" type="4">
-        <text>isCalculatorTileChosen</text>
+        <text>?</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBpc0NhbGN1bGF0b3JUaWxlQ2hvb3NlbiA9IFRpbGVIZWxwZXIuaXNDYWxjdWxhdG9yQ2hvb3NlbihhcHApOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>isCalculatorTileChosen</text>
+        <text>app</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzQ2FsY3VsYXRvclRpbGVDaG9zZW4gPSBUaWxlSGVscGVyLmlzQ2FsY3VsYXRvckNob3NlbihhcHApOwo=</text>
+      <register name="6" type="4">
+        <text>app</text>
       </register>
       <register name="5" type="4">
         <text>isCalculatorTileChosen</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzQ2FsY3VsYXRvclRpbGVDaG9zZW4gPSBUaWxlSGVscGVyLmlzQ2FsY3VsYXRvckNob3Nlbihjb250ZXh0KTsK</text>
+      <register name="4" type="4">
+        <text>;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>CalculatorTile.getPackageName(app)</text>
+        <text>isCalculatorTileChosen</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgewogICAgICAgICAgICAgICAgY2FsY1BhY2thZ2VOYW1lID0gOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzQ2FsY3VsYXRvclRpbGVDaG9zZW4gPSBUaWxlSGVscGVyLmlzQ2FsY3VsYXRvckNob3Nlbihjb250ZXh0KTsK</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBc3luY1Rhc2tcPg==</last-search>
+      <last-search encoding="base64">XDxtQ3VycmVudFRpbGVzTGlzdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBc3luY1Rhc2tcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtQ3VycmVudFRpbGVzTGlzdFw+</last-pattern>
       <last-replace>NetUtils</last-replace>
       <last-substitute encoding="base64">XDxOZXR3b3JrVXRpbHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -547,6 +509,7 @@
         <entry encoding="base64">XDxDYWxjdWxhdG9yXD4=</entry>
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxBc3luY1Rhc2tcPg==</entry>
+        <entry encoding="base64">XDxtQ3VycmVudFRpbGVzTGlzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist find</entry>
