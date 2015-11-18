@@ -24,11 +24,6 @@
         <mark key="." line="22" column="0" />
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/res/values/strings_non_translatable.xml" timestamp="1447840141959">
-        <mark key="'" line="29" column="55" />
-        <mark key="]" line="29" column="52" />
-        <mark key="[" line="29" column="18" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/notification/sms/ContactData.java" timestamp="1447666806941">
         <mark key="]" line="231" column="59" />
         <mark key="^" line="231" column="57" />
@@ -49,11 +44,11 @@
         <mark key="." line="39" column="57" />
         <mark key="[" line="39" column="55" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" timestamp="1447845552699">
-        <mark key="]" line="620" column="3" />
-        <mark key="^" line="620" column="3" />
-        <mark key="." line="620" column="3" />
-        <mark key="[" line="619" column="34" />
+      <file name="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" timestamp="1447849809320">
+        <mark key="]" line="567" column="3" />
+        <mark key="^" line="567" column="3" />
+        <mark key="." line="567" column="3" />
+        <mark key="[" line="566" column="34" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiSwitchersChooserPanel.java" timestamp="1447834235429">
         <mark key="'" line="154" column="4" />
@@ -91,11 +86,6 @@
         <mark key="." line="32" column="22" />
         <mark key="[" line="32" column="22" />
       </file>
-      <file name="E:/Apps/HolaLauncher/AndroidManifest.xml" timestamp="1447839123726">
-        <mark key="'" line="787" column="38" />
-        <mark key="]" line="852" column="33" />
-        <mark key="[" line="847" column="0" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdWrapper.java" timestamp="1447837788918">
         <mark key="'" line="56" column="0" />
         <mark key="]" line="40" column="11" />
@@ -109,11 +99,6 @@
         <mark key="^" line="78" column="61" />
         <mark key="." line="78" column="61" />
         <mark key="[" line="93" column="29" />
-      </file>
-      <file name="E:/Apps/HolaLauncher/res/values/strings.xml" timestamp="1447838932631">
-        <mark key="'" line="35" column="18" />
-        <mark key="]" line="617" column="54" />
-        <mark key="[" line="617" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/MusicTile.java" timestamp="1447649572609">
         <mark key="]" line="85" column="25" />
@@ -131,10 +116,16 @@
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/AppLoader.java" timestamp="1447847887189">
         <mark key="'" line="60" column="22" />
-        <mark key="]" line="277" column="90" />
-        <mark key="^" line="277" column="90" />
-        <mark key="." line="277" column="90" />
-        <mark key="[" line="277" column="91" />
+        <mark key="]" line="279" column="90" />
+        <mark key="^" line="279" column="90" />
+        <mark key="." line="279" column="90" />
+        <mark key="[" line="279" column="91" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/GgNativeSdkImpl.java" timestamp="1447837514436">
+        <mark key="]" line="47" column="74" />
+        <mark key="^" line="17" column="70" />
+        <mark key="." line="17" column="70" />
+        <mark key="[" line="47" column="40" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/WeatherSettingsFragment.java" timestamp="1447817340456">
         <mark key="]" line="13" column="0" />
@@ -142,6 +133,7 @@
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
       </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipeService.java" timestamp="1447850076171" />
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/CalculatorTile.java" timestamp="1447827934786">
         <mark key="'" line="19" column="13" />
         <mark key="]" line="119" column="19" />
