@@ -85,9 +85,6 @@
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/Utils.java" timestamp="1447749330817">
         <mark key="'" line="2377" column="12" />
       </file>
-      <file name="/Dummy.jql" timestamp="1447822792358">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/weather/animation/Sun.java" timestamp="1447744531709">
         <mark key="'" line="96" column="32" />
       </file>
@@ -96,6 +93,12 @@
       </file>
       <file name="D:/android-sdk/sources/android-23/android/text/SpannableString.java" timestamp="1447394344579">
         <mark key="'" line="56" column="0" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/CustomProgressDialog.java" timestamp="1447844251783">
+        <mark key="]" line="39" column="57" />
+        <mark key="^" line="39" column="57" />
+        <mark key="." line="39" column="57" />
+        <mark key="[" line="39" column="55" />
       </file>
       <file name="D:/android-sdk/sources/android-22/android/os/AsyncTask.java" timestamp="1446771511398">
         <mark key="'" line="289" column="64" />
@@ -290,17 +293,11 @@
       <file name="E:/Apps/LazySwipe/app/src/main/res/layout/custom_dialog.xml" timestamp="1447136454919">
         <mark key="'" line="62" column="37" />
       </file>
-      <file name="/a.txt" timestamp="1447668366723">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/Apps/Analytics/src/com/dataflurry/statistics/QiigameAgent.java" timestamp="1446771409048">
         <mark key="'" line="36" column="13" />
       </file>
       <file name="E:/Apps/HolaLauncher/src/com/hola/launcher/util/sdk/ggnativead/GGNativeSdkImpl.java" timestamp="1447837464943">
         <mark key="'" line="18" column="13" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/GgNativeAdFactory.java" timestamp="1447838450796">
-        <mark key="[" line="85" column="58" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/DeviceUtils.java" timestamp="1447749326892">
         <mark key="'" line="1135" column="35" />
@@ -333,9 +330,6 @@
         <mark key="^" line="494" column="20" />
         <mark key="." line="494" column="20" />
         <mark key="[" line="493" column="9" />
-      </file>
-      <file name="/a.regexp" timestamp="1447668360150">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/data/Tab.java" timestamp="1447830122874">
         <mark key="'" line="35" column="16" />
@@ -383,9 +377,6 @@
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchHotWordsView.java" timestamp="1447641058699">
         <mark key="'" line="210" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1447829234583">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdWallWrapper.java" timestamp="1447837844723">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="8" column="36" />
@@ -411,9 +402,6 @@
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchUtils.java" timestamp="1447641036454">
         <mark key="'" line="105" column="45" />
-      </file>
-      <file name="/fragment.java" timestamp="1447839197635">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdWallController.java" timestamp="1447841865034">
         <mark key="'" line="23" column="17" />
@@ -550,7 +538,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icG9wdXBfc2hhcmUiPiJTaGFyZSI8L3N0cmluZz4K</text>
@@ -562,40 +550,40 @@
         <text>GameAc</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAqLwo=</text>
+      <register name="3" type="4">
+        <text>0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKgogICAgICAgICAgICAgICAgICAgIGlmICh0cnlEb3dubG9hZCkgewo=</text>
+      <register name="2" type="4">
+        <text>new CustomProgressDialog.Builder(context)</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iQHN0cmluZy9wcmVmX3RpdGxlX2dhbWUiCiAgICAgICAgICAgIGFuZHJvaWQ6aWNvbj0iQGRyYXdhYmxlL3dpZGdldF9vbW5pX2dhbWUiCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQ3VzdG9tUHJvZ3Jlc3NEaWFsb2cgc2hvdygKICAgICAgICAgICAgQ29udGV4dCBjb250ZXh0LCBDaGFyU2VxdWVuY2UgdGl0bGUsIENoYXJTZXF1ZW5jZSBtZXNzYWdlLCBib29sZWFuIGNhbmNlbGFibGUpIHsKICAgICAgICByZXR1cm4gc2hvdyhjb250ZXh0LCB0aXRsZSwgbWVzc2FnZSwgY2FuY2VsYWJsZSwgbnVsbCwgMCk7CiAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>pref_title_game</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKgogICAgICAgICAgICAgICAgICAgIGlmICh0cnlEb3dubG9hZCkgewo=</text>
       </register>
       <register name="6" type="4">
-        <text>widget_omni_game</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>void</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>/*boolean tryDownload = */</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>action FindUsages</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>/*boolean tryDownload = */</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAqLwo=</text>
       </register>
     </registers>
     <search>
