@@ -10,6 +10,9 @@
         <mark key="." line="147" column="63" />
         <mark key="[" line="143" column="18" />
       </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/res/values/arrays.xml" timestamp="1447822813599">
+        <mark key="'" line="66" column="0" />
+      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiAppsChooserPanel.java" timestamp="1447829125859">
         <mark key="'" line="234" column="33" />
         <mark key="]" line="750" column="32" />
@@ -17,58 +20,31 @@
         <mark key="." line="750" column="32" />
         <mark key="[" line="750" column="32" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/res/values/arrays.xml" timestamp="1447822813599">
-        <mark key="'" line="66" column="0" />
-      </file>
       <file name="D:/android-sdk/sources/android-22/android/os/FileObserver.java" timestamp="1447214877280">
         <mark key="'" line="63" column="49" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/IconLoader.java" timestamp="1447336350574">
-        <mark key="'" line="612" column="68" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/weather/QueryCityHandler.java" timestamp="1447667295561">
         <mark key="'" line="242" column="4" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/BasePreferenceFragment.java" timestamp="1447818067446">
-        <mark key="'" line="19" column="0" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/BluetoothTile.java" timestamp="1447149099211">
         <mark key="'" line="21" column="13" />
-      </file>
-      <file name="D:/android-sdk/sources/android-23/android/view/ViewGroup.java" timestamp="1447233954104">
-        <mark key="'" line="6867" column="10" />
       </file>
       <file name="D:/android-sdk/sources/android-22/java/util/concurrent/FutureTask.java" timestamp="1446793500302">
         <mark key="'" line="122" column="18" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/Fan.java" timestamp="1447829325085">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/BaseItemLayer.java" timestamp="1447819130480">
-        <mark key="'" line="689" column="52" />
-        <mark key="a" line="767" column="24" />
-        <mark key="]" line="386" column="14" />
-        <mark key="^" line="386" column="14" />
-        <mark key="." line="386" column="14" />
-        <mark key="[" line="386" column="14" />
-      </file>
-      <file name="D:/android-sdk/sources/android-22/android/graphics/drawable/LayerDrawable.java" timestamp="1447059103205">
-        <mark key="'" line="112" column="59" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/preference/content/SettingsInProvider.java" timestamp="1447305401975">
-        <mark key="'" line="147" column="42" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/TutorialService.java" timestamp="1447295351546">
-        <mark key="'" line="141" column="0" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/preference/content/Settings.java" timestamp="1446968218766">
-        <mark key="'" line="110" column="33" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/qsearch/SearchFragment.java" timestamp="1447144085511">
-        <mark key="'" line="1252" column="0" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/BaseItemLayer.java" timestamp="1447831107014">
+        <mark key="'" line="214" column="12" />
+        <mark key="a" line="779" column="24" />
+        <mark key="]" line="440" column="39" />
+        <mark key="^" line="438" column="23" />
+        <mark key="." line="440" column="0" />
+        <mark key="[" line="440" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/res/xml/pref_advanced_settings.xml" timestamp="1446715928787">
         <mark key="'" line="46" column="21" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/qsearch/SearchFragment.java" timestamp="1447144085511">
+        <mark key="'" line="1252" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/libs/AudienceNetwork.jar!/com/facebook/ads/NativeAd.class" timestamp="1447666468843">
         <mark key="'" line="151" column="36" />
@@ -91,34 +67,14 @@
       <file name="/Dummy.jql" timestamp="1447822792358">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.txt" timestamp="1447668366723">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/weather/animation/Sun.java" timestamp="1447744531709">
         <mark key="'" line="96" column="32" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/res/layout/custom_dialog.xml" timestamp="1447136454919">
-        <mark key="'" line="62" column="37" />
-      </file>
-      <file name="/a.dummy" timestamp="1447829101296">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/android-sdk/sources/android-22/android/preference/Preference.java" timestamp="1447753038036">
         <mark key="'" line="172" column="14" />
       </file>
       <file name="D:/android-sdk/sources/android-23/android/text/SpannableString.java" timestamp="1447394344579">
         <mark key="'" line="56" column="0" />
-      </file>
-      <file name="E:/Apps/Analytics/src/com/dataflurry/statistics/QiigameAgent.java" timestamp="1446771409048">
-        <mark key="'" line="36" column="13" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" timestamp="1447813048888">
-        <mark key="'" line="499" column="0" />
-        <mark key="a" line="733" column="24" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="39" column="50" />
-        <mark key="." line="40" column="0" />
-        <mark key="[" line="40" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchScrollableAdsNativeView.java" timestamp="1447762612621">
         <mark key="'" line="169" column="16" />
@@ -128,55 +84,35 @@
         <mark key="." line="12" column="0" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/theme/preview/ThemePreviewActivity.java" timestamp="1447036883730">
-        <mark key="'" line="223" column="4" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/DeviceUtils.java" timestamp="1447749326892">
-        <mark key="'" line="1135" column="35" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/CalculatorTile.java" timestamp="1447827934786">
-        <mark key="'" line="19" column="13" />
-        <mark key="]" line="119" column="19" />
-        <mark key="^" line="119" column="19" />
-        <mark key="." line="119" column="19" />
-        <mark key="[" line="118" column="9" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" timestamp="1447813048888">
+        <mark key="'" line="499" column="0" />
+        <mark key="a" line="733" column="24" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="39" column="50" />
+        <mark key="." line="40" column="0" />
+        <mark key="[" line="40" column="0" />
       </file>
       <file name="D:/android-sdk/sources/android-22/android/os/AsyncTask.java" timestamp="1446771511398">
         <mark key="'" line="289" column="64" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/CascadingCard.java" timestamp="1446770747454">
-        <mark key="'" line="691" column="23" />
-      </file>
       <file name="D:/android-sdk/sources/android-22/android/widget/PopupMenu.java" timestamp="1447135152713">
         <mark key="'" line="235" column="16" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiSwitchersChooserPanel.java" timestamp="1447829175872">
-        <mark key="'" line="51" column="31" />
-        <mark key="[" line="151" column="34" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/light/LedLightCamera.java" timestamp="1447827579712">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/TileHelper.java" timestamp="1447827160979">
-        <mark key="'" line="120" column="52" />
-        <mark key="]" line="494" column="20" />
-        <mark key="^" line="494" column="20" />
-        <mark key="." line="494" column="20" />
-        <mark key="[" line="493" column="9" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/res/layout/exclusively_launch_text.xml" timestamp="1447144134606">
-        <mark key="'" line="4" column="26" />
-      </file>
-      <file name="D:/android-sdk/sources/android-23/android/util/FloatMath.java" timestamp="1447227937468">
-        <mark key="'" line="92" column="39" />
       </file>
       <file name="D:/android-sdk/platforms/android-23/data/res/values/styles.xml" timestamp="1447245216090">
         <mark key="'" line="153" column="54" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/res/xml/pref_weather_settings.xml" timestamp="1447825104416">
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="[" line="4" column="0" />
+      <file name="D:/android-sdk/sources/android-23/android/util/FloatMath.java" timestamp="1447227937468">
+        <mark key="'" line="92" column="39" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/light/LedLightCamera.java" timestamp="1447827579712">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiSwitchersChooserPanel.java" timestamp="1447830179267">
+        <mark key="'" line="51" column="31" />
+        <mark key="]" line="153" column="15" />
+        <mark key="^" line="153" column="15" />
+        <mark key="." line="153" column="15" />
+        <mark key="[" line="153" column="15" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/weather/WeatherDataWrapper.java" timestamp="1447817631565">
         <mark key="'" line="17" column="0" />
@@ -185,40 +121,14 @@
         <mark key="." line="50" column="26" />
         <mark key="[" line="48" column="51" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiChooserDialog.java" timestamp="1447829574803">
-        <mark key="]" line="61" column="18" />
-        <mark key="^" line="61" column="18" />
-        <mark key="." line="61" column="18" />
-        <mark key="[" line="61" column="16" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/RingerModeTile.java" timestamp="1447337273450">
         <mark key="'" line="36" column="13" />
-      </file>
-      <file name="/a.regexp" timestamp="1447668360150">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/FanAnimation.java" timestamp="1447115857919">
         <mark key="'" line="128" column="78" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/AdvancedSettingsFragment.java" timestamp="1447817592119">
-        <mark key="'" line="75" column="29" />
-        <mark key="]" line="248" column="23" />
-        <mark key="^" line="248" column="23" />
-        <mark key="." line="248" column="23" />
-        <mark key="[" line="247" column="47" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiChooserPanel.java" timestamp="1447829271210">
-        <mark key="'" line="45" column="13" />
-        <mark key="]" line="45" column="32" />
-        <mark key="^" line="45" column="32" />
-        <mark key="." line="45" column="32" />
-        <mark key="[" line="45" column="33" />
-      </file>
       <file name="D:/android-sdk/platforms/android-21/android.jar!/android/view/View.class" timestamp="1447231034876">
         <mark key="'" line="279" column="19" />
-      </file>
-      <file name="D:/android-sdk/sources/android-23/android/app/Notification.java" timestamp="1447228773005">
-        <mark key="'" line="2409" column="15" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/data/MostUsedTab.java" timestamp="1447828042017">
         <mark key="'" line="127" column="57" />
@@ -249,28 +159,17 @@
       <file name="D:/android-sdk/sources/android-22/android/os/RemoteCallbackList.java" timestamp="1446958872910">
         <mark key="'" line="228" column="24" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchHotWordsView.java" timestamp="1447641058699">
-        <mark key="'" line="210" column="24" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/res/layout/widget_weather_detail_view.xml" timestamp="1447033434429">
         <mark key="'" line="58" column="29" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1447829234583">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/preference/content/SharedVariablesInProvider.java" timestamp="1447304636374">
         <mark key="'" line="32" column="0" />
       </file>
-      <file name="D:/android-sdk/sources/android-22/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1446790775980">
-        <mark key="'" line="1193" column="11" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/res/values-rUS/config.xml" timestamp="1447815341802">
-        <mark key="]" line="2" column="74" />
-        <mark key="." line="2" column="74" />
-        <mark key="[" line="2" column="73" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchWebActivity.java" timestamp="1447761802146">
         <mark key="'" line="25" column="28" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/SectorArea.java" timestamp="1447830989493">
+        <mark key="'" line="67" column="25" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/res/values-xxhdpi/dimens.xml" timestamp="1447334008055">
         <mark key="'" line="7" column="17" />
@@ -278,32 +177,140 @@
       <file name="D:/android-sdk/sources/android-22/java/util/concurrent/ConcurrentHashMap.java" timestamp="1447384557608">
         <mark key="'" line="632" column="11" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/AppFilter.java" timestamp="1447827765082">
-        <mark key="'" line="26" column="13" />
-        <mark key="[" line="170" column="9" />
-      </file>
-      <file name="/fragment.java" timestamp="1447829234588">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchUtils.java" timestamp="1447641036454">
-        <mark key="'" line="105" column="45" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/ItemSector.java" timestamp="1447058834232">
-        <mark key="'" line="169" column="16" />
-      </file>
       <file name="D:/android-sdk/sources/android-22/android/os/Handler.java" timestamp="1447041848469">
         <mark key="'" line="742" column="17" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/image/downloader/ImageDownloaderImpl.java" timestamp="1447640461527">
-        <mark key="'" line="226" column="24" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipeApplication.java" timestamp="1447384936419">
         <mark key="'" line="31" column="2" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipePrefs.java" timestamp="1447818099124">
-        <mark key="]" line="1262" column="0" />
-        <mark key="." line="1262" column="0" />
-        <mark key="[" line="1262" column="0" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/image/downloader/ImageDownloaderImpl.java" timestamp="1447640461527">
+        <mark key="'" line="226" column="24" />
+      </file>
+      <file name="D:/android-sdk/sources/android-22/android/view/View.java" timestamp="1447062467410">
+        <mark key="'" line="15800" column="19" />
+      </file>
+      <file name="D:/android-sdk/sources/android-23/android/text/SpannableStringInternal.java" timestamp="1447386123759">
+        <mark key="'" line="341" column="17" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/IconLoader.java" timestamp="1447336350574">
+        <mark key="'" line="612" column="68" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/BasePreferenceFragment.java" timestamp="1447818067446">
+        <mark key="'" line="19" column="0" />
+      </file>
+      <file name="D:/android-sdk/sources/android-23/android/view/ViewGroup.java" timestamp="1447233954104">
+        <mark key="'" line="6867" column="10" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/Fan.java" timestamp="1447829325085">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="D:/android-sdk/sources/android-22/android/graphics/drawable/LayerDrawable.java" timestamp="1447059103205">
+        <mark key="'" line="112" column="59" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/TutorialService.java" timestamp="1447295351546">
+        <mark key="'" line="141" column="0" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/preference/content/SettingsInProvider.java" timestamp="1447305401975">
+        <mark key="'" line="147" column="42" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/preference/content/Settings.java" timestamp="1446968218766">
+        <mark key="'" line="110" column="33" />
+      </file>
+      <file name="/a.dummy" timestamp="1447829101296">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/res/layout/custom_dialog.xml" timestamp="1447136454919">
+        <mark key="'" line="62" column="37" />
+      </file>
+      <file name="/a.txt" timestamp="1447668366723">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Apps/Analytics/src/com/dataflurry/statistics/QiigameAgent.java" timestamp="1446771409048">
+        <mark key="'" line="36" column="13" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/DeviceUtils.java" timestamp="1447749326892">
+        <mark key="'" line="1135" column="35" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/theme/preview/ThemePreviewActivity.java" timestamp="1447036883730">
+        <mark key="'" line="223" column="4" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/CalculatorTile.java" timestamp="1447827934786">
+        <mark key="'" line="19" column="13" />
+        <mark key="]" line="119" column="19" />
+        <mark key="^" line="119" column="19" />
+        <mark key="." line="119" column="19" />
+        <mark key="[" line="118" column="9" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/CascadingCard.java" timestamp="1446770747454">
+        <mark key="'" line="691" column="23" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/BaseSectorArea.java" timestamp="1447830986646">
+        <mark key="'" line="77" column="16" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/res/layout/exclusively_launch_text.xml" timestamp="1447144134606">
+        <mark key="'" line="4" column="26" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/TileHelper.java" timestamp="1447827160979">
+        <mark key="'" line="120" column="52" />
+        <mark key="]" line="494" column="20" />
+        <mark key="^" line="494" column="20" />
+        <mark key="." line="494" column="20" />
+        <mark key="[" line="493" column="9" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiChooserDialog.java" timestamp="1447831031622">
+        <mark key="'" line="24" column="40" />
+        <mark key="]" line="65" column="31" />
+        <mark key="." line="58" column="0" />
+        <mark key="[" line="65" column="0" />
+      </file>
+      <file name="/a.regexp" timestamp="1447668360150">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/data/Tab.java" timestamp="1447830122874">
+        <mark key="'" line="35" column="16" />
+        <mark key="]" line="225" column="24" />
+        <mark key="^" line="225" column="24" />
+        <mark key="." line="225" column="24" />
+        <mark key="[" line="224" column="33" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/AdvancedSettingsFragment.java" timestamp="1447817592119">
+        <mark key="'" line="75" column="29" />
+        <mark key="]" line="248" column="23" />
+        <mark key="^" line="248" column="23" />
+        <mark key="." line="248" column="23" />
+        <mark key="[" line="247" column="47" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiChooserPanel.java" timestamp="1447829271210">
+        <mark key="'" line="45" column="13" />
+        <mark key="]" line="45" column="32" />
+        <mark key="^" line="45" column="32" />
+        <mark key="." line="45" column="32" />
+        <mark key="[" line="45" column="33" />
+      </file>
+      <file name="D:/android-sdk/sources/android-23/android/app/Notification.java" timestamp="1447228773005">
+        <mark key="'" line="2409" column="15" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchHotWordsView.java" timestamp="1447641058699">
+        <mark key="'" line="210" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1447829234583">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/android-sdk/sources/android-22/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1446790775980">
+        <mark key="'" line="1193" column="11" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/AppFilter.java" timestamp="1447827765082">
+        <mark key="'" line="26" column="13" />
+        <mark key="[" line="170" column="9" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchUtils.java" timestamp="1447641036454">
+        <mark key="'" line="105" column="45" />
+      </file>
+      <file name="/fragment.java" timestamp="1447829234588">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/ItemSector.java" timestamp="1447830804650">
+        <mark key="'" line="36" column="21" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/SettingsFragment.java" timestamp="1447825615882">
         <mark key="'" line="220" column="8" />
@@ -311,45 +318,21 @@
         <mark key="." line="47" column="0" />
         <mark key="[" line="47" column="0" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/data/RecentUsedTab.java" timestamp="1447828036180">
-        <mark key="'" line="120" column="33" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/WeatherCard.java" timestamp="1447745054196">
+        <mark key="'" line="114" column="8" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/data/RecentUsedTab.java" timestamp="1447830097826">
+        <mark key="'" line="182" column="18" />
         <mark key="]" line="120" column="52" />
         <mark key="^" line="120" column="52" />
         <mark key="." line="120" column="52" />
         <mark key="[" line="120" column="52" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/WeatherCard.java" timestamp="1447745054196">
-        <mark key="'" line="114" column="8" />
-      </file>
-      <file name="D:/android-sdk/sources/android-22/android/view/View.java" timestamp="1447062467410">
-        <mark key="'" line="15800" column="19" />
-      </file>
       <file name="D:/android-sdk/sources/android-22/android/content/ComponentCallbacks2.java" timestamp="1446693497055">
         <mark key="'" line="83" column="17" />
       </file>
-      <file name="D:/android-sdk/sources/android-23/android/text/SpannableStringInternal.java" timestamp="1447386123759">
-        <mark key="'" line="341" column="17" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="503" column="30" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="716" column="42" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="735" column="29" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="737" column="34" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="744" column="29" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="746" column="39" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="770" column="29" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="772" column="37" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="774" column="36" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="922" column="48" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="932" column="51" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="948" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="95" column="32" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="500" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" />
-      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/DatabaseHelper.java" />
-      <jump line="308" column="25" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/DatabaseHelper.java" />
-      <jump line="51" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/DatabaseHelper.java" />
-      <jump line="28" column="49" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/preference/TemperatureUnitPreference.java" />
       <jump line="320" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/DatabaseHelper.java" />
       <jump line="93" column="29" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/preference/TemperatureUnitPreference.java" />
       <jump line="39" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/DatabaseHelper.java" />
@@ -432,10 +415,28 @@
       <jump line="1217" column="45" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/Fan.java" />
       <jump line="1244" column="57" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/Fan.java" />
       <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/Fan.java" />
+      <jump line="182" column="18" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/data/RecentUsedTab.java" />
+      <jump line="223" column="16" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/data/Tab.java" />
+      <jump line="29" column="35" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/data/Tab.java" />
+      <jump line="35" column="16" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/data/Tab.java" />
+      <jump line="24" column="40" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/chooser/MultiChooserDialog.java" />
+      <jump line="335" column="15" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/ItemSector.java" />
+      <jump line="340" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/ItemSector.java" />
+      <jump line="345" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/ItemSector.java" />
+      <jump line="106" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/ItemSector.java" />
+      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/ItemSector.java" />
+      <jump line="36" column="21" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/ItemSector.java" />
+      <jump line="77" column="16" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/BaseSectorArea.java" />
+      <jump line="67" column="25" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/SectorArea.java" />
+      <jump line="397" column="17" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/BaseItemLayer.java" />
+      <jump line="269" column="16" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/BaseItemLayer.java" />
+      <jump line="188" column="16" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/BaseItemLayer.java" />
+      <jump line="189" column="16" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/BaseItemLayer.java" />
+      <jump line="214" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/BaseItemLayer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFuLnJlUG9wdXAoZmFsc2UpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icG9wdXBfc2hhcmUiPiJTaGFyZSI8L3N0cmluZz4K</text>
@@ -444,52 +445,49 @@
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGNhbGNQYWNrYWdlTmFtZSA9IFRpbGVIZWxwZXIuaXNDYWxjdWxhdG9yQ2hvc2VuKGFwcCkgCiAgICAgICAgICAgICAgICAgICAgPyBDYWxjdWxhdG9yVGlsZS5nZXRQYWNrYWdlTmFtZShhcHApOiBudWxsOwo=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtQ3VycmVudFRhYkluZGV4XD4=</text>
+        <text encoding="base64">XDxvbkRlbGV0ZUNsaWNrXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>NextTab</text>
+        <text>fan.getBaseSectorArea()</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+      <register name="3" type="4">
+        <text>fan.getBaseSectorArea()</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKFRocm93YWJsZSBpZ25vcmVkKSB7Cg==</text>
+      <register name="2" type="4">
+        <text>fan.getBaseSectorArea()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlbG9hZEFub3RoZXJUYWIpIHsKICAgICAgICAgICAgICAgIGlmIChERUJVRykgTG9nLmQoVEFHLCAiUmVsb2FkIGFub3RoZXIgdGFiLi4uIik7CiAgICAgICAgICAgICAgICBmYW4uZ2V0QmFzZVNlY3RvckFyZWEoKS5nZXROZXh0VGFiKCkKICAgICAgICAgICAgICAgICAgICAgICAgLmxvYWRJY29ucyhTd2lwZUFwcGxpY2F0aW9uLmdldEluc3RhbmNlKCksIHRydWUpOwogICAgICAgICAgICAgICAgZmFuLmdldEJhc2VTZWN0b3JBcmVhKCkuZ2V0UHJldmlvdXNUYWIoKQogICAgICAgICAgICAgICAgICAgICAgICAubG9hZEljb25zKFN3aXBlQXBwbGljYXRpb24uZ2V0SW5zdGFuY2UoKSwgdHJ1ZSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFuLmdldEJhc2VTZWN0b3JBcmVhKCkuZ2V0TmV4dFRhYigpLmxvYWRJY29ucyhTd2lwZUFwcGxpY2F0aW9uLmdldEluc3RhbmNlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFuLnJlUG9wdXAoZmFsc2UpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>false;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FsY1RpbGVBZGRlZCA9IGZhbHNlOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbk9rQ2xpY2soKTsK</text>
+      <register name="6" type="4">
+        <text>FanItemInfo</text>
       </register>
-      <register name="5" type="8">
-        <text>Fan.getInstance()
-Fan.getInstance()
-Fan.getInstance()
-Fan.getInstance()</text>
+      <register name="5" type="4">
+        <text>)</text>
       </register>
-      <register name="4" type="4">
-        <text>NextTab</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>void</text>
+        <text>calcTileRemoved;</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtQ3VycmVudFRhYkluZGV4XD4=</last-search>
+      <last-search encoding="base64">XDxvbkRlbGV0ZUNsaWNrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtQ3VycmVudFRhYkluZGV4XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvbkRlbGV0ZUNsaWNrXD4=</last-pattern>
       <last-replace>NetUtils</last-replace>
       <last-substitute encoding="base64">XDxOZXR3b3JrVXRpbHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -532,6 +530,13 @@ Fan.getInstance()</text>
         <entry encoding="base64">XDxvbk9rQ2xpY2tcPg==</entry>
         <entry encoding="base64">XDxvbkNob29zZURvbmVcPg==</entry>
         <entry encoding="base64">XDxtQ3VycmVudFRhYkluZGV4XD4=</entry>
+        <entry>loadI</entry>
+        <entry encoding="base64">XDxsb2FkSWNvbnNcPg==</entry>
+        <entry encoding="base64">XDxtRmFuTGF5ZXJDdXJyZW50XD4=</entry>
+        <entry>nextla</entry>
+        <entry encoding="base64">XDxwb3BJdGVtc1w+</entry>
+        <entry encoding="base64">XDxvbkRlbGV0ZVRpbGVcPg==</entry>
+        <entry encoding="base64">XDxvbkRlbGV0ZUNsaWNrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist find</entry>
