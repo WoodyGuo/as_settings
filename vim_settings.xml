@@ -128,6 +128,7 @@
         <mark key="'" line="529" column="3" />
         <mark key="[" line="527" column="77" />
       </file>
+      <file name="E:/Apps/LazySwipe/app/build/generated/source/buildConfig/global/debug/com/lazyswipe/BuildConfig.java" timestamp="1447934180734" />
       <file name="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" timestamp="1447922288562">
         <mark key="'" line="598" column="61" />
         <mark key="]" line="567" column="3" />
@@ -185,17 +186,12 @@
         <mark key="." line="114" column="73" />
         <mark key="[" line="113" column="39" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdFactory.java" timestamp="1447927390884" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdFactory.java" timestamp="1447934042069">
+        <mark key="'" line="34" column="34" />
+      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/DynamicSdkUtils.java" timestamp="1447931477917">
         <mark key="'" line="137" column="23" />
         <mark key="[" line="257" column="13" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/WeatherPopupView.java" timestamp="1447928468308">
-        <mark key="'" line="132" column="62" />
-        <mark key="]" line="132" column="72" />
-        <mark key="^" line="132" column="72" />
-        <mark key="." line="132" column="72" />
-        <mark key="[" line="132" column="69" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/AdvancedSettingsFragment.java" timestamp="1447847539623">
         <mark key="'" line="91" column="0" />
@@ -232,12 +228,6 @@
         <mark key="^" line="543" column="47" />
         <mark key="." line="543" column="47" />
         <mark key="[" line="543" column="47" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/CleanerResourceManager.java" timestamp="1447911183376">
-        <mark key="'" line="37" column="32" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="[" line="65" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdWrapper.java" timestamp="1447837788918">
         <mark key="'" line="56" column="0" />
@@ -354,12 +344,12 @@
         <mark key="." line="131" column="12" />
         <mark key="[" line="131" column="12" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaSdkImpl.java" timestamp="1447927397594">
-        <mark key="'" line="24" column="41" />
-        <mark key="]" line="12" column="68" />
-        <mark key="^" line="12" column="68" />
-        <mark key="." line="12" column="68" />
-        <mark key="[" line="12" column="65" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaSdkImpl.java" timestamp="1447934229187">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="46" column="42" />
+        <mark key="^" line="46" column="42" />
+        <mark key="." line="46" column="42" />
+        <mark key="[" line="46" column="42" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/GoogleMarketUrlResolver.java" timestamp="1447896573675">
         <mark key="]" line="21" column="9" />
@@ -381,10 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="64" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/weather/bean/RealTimeWeatherCondition.java" />
-      <jump line="55" column="18" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/weather/bean/RealTimeWeatherCondition.java" />
-      <jump line="76" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/weather/bean/RealTimeWeatherCondition.java" />
-      <jump line="112" column="53" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/weather/bean/RealTimeWeatherCondition.java" />
       <jump line="142" column="64" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/weather/bean/RealTimeWeatherCondition.java" />
       <jump line="143" column="58" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/weather/bean/RealTimeWeatherCondition.java" />
       <jump line="274" column="17" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
@@ -481,10 +467,14 @@
       <jump line="156" column="45" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
       <jump line="137" column="23" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/DynamicSdkUtils.java" />
       <jump line="222" column="66" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/WeatherTipHelper.java" />
+      <jump line="34" column="34" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdFactory.java" />
+      <jump line="32" column="31" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaSdkImpl.java" />
+      <jump line="49" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaSdkImpl.java" />
+      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaSdkImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+ PADDING_H * 2</text>
+        <text>/</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icG9wdXBfc2hhcmUiPiJTaGFyZSI8L3N0cmluZz4K</text>
@@ -499,37 +489,37 @@
         <text>/</text>
       </register>
       <register name="3" type="4">
-        <text>*</text>
+        <text>d</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>k</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1SZWN0Lm9mZnNldCgtUEFERElOR19IICo0LCAwKTsK</text>
+      <register name="1" type="4">
+        <text>/</text>
       </register>
       <register name="0" type="4">
         <text>+ PADDING_H * 2</text>
       </register>
-      <register name="7" type="4">
-        <text>CENTER</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1SZWN0Lm9mZnNldCgtUEFERElOR19IICo0LCAwKTsK</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text encoding="base64">QnVpbGRDb25maWcuU0RLX0lORk9fVVJMICsg</text>
       </register>
       <register name="5" type="4">
-        <text>*</text>
+        <text>/</text>
       </register>
       <register name="4" type="4">
-        <text>WeatherTipHelper.WIDTH</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PDwgMQ==</text>
+        <text>*</text>
       </register>
       <register name="8" type="4">
-        <text>CENTER_INSIDE</text>
+        <text>/</text>
       </register>
       <register name="z" type="4">
         <text>mContext.unbindService(this);</text>
