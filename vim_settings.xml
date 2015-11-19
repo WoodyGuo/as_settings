@@ -491,7 +491,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoImplementation</text>
       </register>
       <register name="9" type="4">
         <text>Google服务</text>
@@ -556,13 +556,13 @@
         <entry encoding="base64">JXMvXDxVdGlsaXRpZXNcPi9VdGlscy9n</entry>
         <entry>%s/(.*LOGD_ENABLED)/(DEBUG)</entry>
         <entry encoding="base64">JXMvXDxOZXR3b3JrVXRpbHNcPi9OZXRVdGlscy9n</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
         <entry encoding="base64">JzwsJz5zL0hvbGEvT21uaQ==</entry>
         <entry>e!</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action FindUsages</entry>
         <entry>w</entry>
+        <entry>action FindUsages</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
