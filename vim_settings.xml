@@ -155,8 +155,8 @@
         <mark key="." line="74" column="33" />
         <mark key="[" line="74" column="20" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/AppLoader.java" timestamp="1447847887189">
-        <mark key="'" line="60" column="22" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/AppLoader.java" timestamp="1447949035850">
+        <mark key="'" line="279" column="48" />
         <mark key="]" line="279" column="90" />
         <mark key="^" line="279" column="90" />
         <mark key="." line="279" column="90" />
@@ -298,6 +298,7 @@
         <mark key="." line="56" column="0" />
         <mark key="[" line="56" column="0" />
       </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/analysis/SelfAnalysis.java" timestamp="1447949168118" />
       <file name="E:/Apps/LazySwipe/app/src/main/res/values/strings.xml" timestamp="1447851200920">
         <mark key="'" line="178" column="59" />
         <mark key="]" line="543" column="47" />
@@ -334,14 +335,14 @@
         <mark key="." line="133" column="22" />
         <mark key="[" line="133" column="20" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/PicksActivity.java" timestamp="1447948294096">
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/PicksActivity.java" timestamp="1447949267125">
         <mark key="'" line="50" column="0" />
         <mark key="]" line="24" column="48" />
         <mark key="^" line="24" column="48" />
         <mark key="." line="24" column="48" />
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1447948194949">
+      <file name="/fragment.java" timestamp="1447949239870">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdWallController.java" timestamp="1447850873535">
@@ -373,8 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="16" filename="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" />
-      <jump line="598" column="61" filename="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" />
       <jump line="52" column="28" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdFactory.java" />
       <jump line="29" column="41" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaSdkImpl.java" />
       <jump line="53" column="24" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdFactory.java" />
@@ -473,6 +472,8 @@
       <jump line="150" column="21" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
       <jump line="251" column="25" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
       <jump line="299" column="15" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="17" column="42" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/AppLoader.java" />
+      <jump line="279" column="48" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/AppLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -485,7 +486,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoTW9idmlzdGFTZGtJbXBsLkZPUkNFX0FTU0VUX0xJQikgewogICAgICAgICAgICBzTW9idmlzdGFTZGtJbXBsLmNvcHlGcm9tQXNzZXQoY29udGV4dCk7CiAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="/" type="4">
-        <text>onClick</text>
+        <text encoding="base64">XDxQaWNrc0FjdGl2aXR5XD4=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -528,9 +529,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onClick</last-search>
+      <last-search encoding="base64">XDxQaWNrc0FjdGl2aXR5XD4=</last-search>
       <last-offset />
-      <last-pattern>onClick</last-pattern>
+      <last-pattern encoding="base64">XDxQaWNrc0FjdGl2aXR5XD4=</last-pattern>
       <last-replace>|| \1 == imageResId</last-replace>
       <last-substitute>^\(.*\)$</last-substitute>
       <last-dir>1</last-dir>
@@ -612,6 +613,7 @@
         <entry encoding="base64">XDxvblJlYWxUaW1lQ29uZGl0aW9uVXBkYXRlXD4=</entry>
         <entry encoding="base64">XDxDaXR5UXVlcnlWaWV3XD4=</entry>
         <entry>onClick</entry>
+        <entry encoding="base64">XDxQaWNrc0FjdGl2aXR5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
