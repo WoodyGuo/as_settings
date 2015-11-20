@@ -81,6 +81,11 @@
         <mark key="." line="51" column="30" />
         <mark key="[" line="51" column="30" />
       </file>
+      <file name="E:/Apps/LazySwipe/build.gradle" timestamp="1448012526491">
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+        <mark key="[" line="22" column="21" />
+      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/hetero/iwatch/WatchFanItem.java" timestamp="1448002956392">
         <mark key="]" line="394" column="73" />
         <mark key="^" line="394" column="73" />
@@ -180,13 +185,6 @@
         <mark key="^" line="249" column="59" />
         <mark key="." line="249" column="59" />
         <mark key="[" line="249" column="30" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/upgrade/UpgradeApkInfo.java" timestamp="1447991450613">
-        <mark key="'" line="94" column="22" />
-        <mark key="]" line="94" column="22" />
-        <mark key="^" line="94" column="22" />
-        <mark key="." line="94" column="22" />
-        <mark key="[" line="94" column="22" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/CleanerResourceManager.java" timestamp="1447999756319">
         <mark key="]" line="89" column="64" />
@@ -447,17 +445,10 @@
         <mark key="[" line="287" column="44" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/ExpandNotificationsTile.java" timestamp="1448009879264">
-        <mark key="]" line="39" column="35" />
-        <mark key="^" line="39" column="35" />
-        <mark key="." line="39" column="35" />
+        <mark key="]" line="38" column="35" />
+        <mark key="^" line="38" column="35" />
+        <mark key="." line="38" column="35" />
         <mark key="[" line="38" column="44" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/TileHelper.java" timestamp="1448009861016">
-        <mark key="'" line="204" column="38" />
-        <mark key="]" line="354" column="0" />
-        <mark key="^" line="490" column="20" />
-        <mark key="." line="354" column="0" />
-        <mark key="[" line="354" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1448008076520">
         <mark key="[" line="0" column="0" />
@@ -655,12 +646,8 @@
         <mark key="." line="119" column="0" />
         <mark key="[" line="119" column="0" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/Utils.java" timestamp="1448009401418">
-        <mark key="'" line="2040" column="26" />
-        <mark key="]" line="2267" column="0" />
-        <mark key="^" line="2051" column="5" />
-        <mark key="." line="2267" column="0" />
-        <mark key="[" line="2267" column="0" />
+      <file name="/Dummy.jql" timestamp="1448012182126">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/guide/NewGuideBase.java" timestamp="1447999984282">
         <mark key="]" line="224" column="76" />
@@ -765,12 +752,6 @@
         <mark key="^" line="285" column="15" />
         <mark key="." line="285" column="15" />
         <mark key="[" line="284" column="65" />
-      </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/TouchView.java" timestamp="1448009468032">
-        <mark key="]" line="26" column="53" />
-        <mark key="^" line="227" column="39" />
-        <mark key="." line="26" column="53" />
-        <mark key="[" line="26" column="53" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdWrapper.java" timestamp="1447837788918">
         <mark key="'" line="56" column="0" />
@@ -1090,12 +1071,12 @@
         <mark key="." line="133" column="22" />
         <mark key="[" line="133" column="20" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdWallController.java" timestamp="1447850873535">
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdWallController.java" timestamp="1448012258954">
         <mark key="'" line="91" column="27" />
-        <mark key="]" line="53" column="0" />
+        <mark key="]" line="111" column="73" />
         <mark key="^" line="45" column="27" />
-        <mark key="." line="53" column="0" />
-        <mark key="[" line="53" column="0" />
+        <mark key="." line="111" column="73" />
+        <mark key="[" line="111" column="73" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/FanItem.java" timestamp="1448002876153">
         <mark key="'" line="643" column="52" />
@@ -1228,7 +1209,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bUNvbnRleHQsIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icG9wdXBfc2hhcmUiPiJTaGFyZSI8L3N0cmluZz4K</text>
@@ -1240,16 +1221,16 @@
         <text>expand</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bUNvbnRleHQsIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">U3dpcGVBcHBsaWNhdGlvbi5nZXRJbnN0YW5jZSgpLCA=</text>
+        <text>926803720707606_927196114001700</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">dGhpcywg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">bUNvbnRleHQsIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQGRlcHJlY2F0ZWQgdXNlIHtAbGluayBjb20ubGF6eXN3aXBlLkNvbnN0YW50cyNIRUlHSFRfUElYRUxTfSBpbnN0ZWFkCiAgICAgKi8K</text>
@@ -1257,20 +1238,20 @@
       <register name="7" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRHJhd2FibGUgbWFrZUJ0bkRyYXdhYmxlKCkgewogICAgICAgIERyYXdhYmxlIHdoaXRlQmcgPSBuZXcgQ29sb3JEcmF3YWJsZSgweGZmMDBhY2ZmKTsKICAgICAgICBMYXllckRyYXdhYmxlIGxheWVyRHJhd2FibGUgPSBuZXcgTGF5ZXJEcmF3YWJsZShuZXcgRHJhd2FibGVbXXsKICAgICAgICAgICAgICAgIHdoaXRlQmcsIFN3aXBlQXBwbGljYXRpb24uZ2V0UmVzKCkuZ2V0RHJhd2FibGUoUi5kcmF3YWJsZS50ZW1wbGF0ZV9pdGVtX3ByZXNzZWQpCj09PT09PT0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">U3dpcGVBcHBsaWNhdGlvbi5nZXRJbnN0YW5jZSgpLCA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+      <register name="5" type="4">
+        <text encoding="base64">dGhpcywg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">bUNvbnRleHQsIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbiA9IFRhYi5nZXRNYXhDb3VudCgpIC0gVElMRVNfREVGQVVMVC5zaXplKCk7Cj09PT09PT0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRHJhd2FibGUgbWFrZUJ0bkRyYXdhYmxlKCkgewogICAgICAgIERyYXdhYmxlIHdoaXRlQmcgPSBuZXcgQ29sb3JEcmF3YWJsZSgweGZmMDBhY2ZmKTsKICAgICAgICBMYXllckRyYXdhYmxlIGxheWVyRHJhd2FibGUgPSBuZXcgTGF5ZXJEcmF3YWJsZShuZXcgRHJhd2FibGVbXXsKICAgICAgICAgICAgICAgIHdoaXRlQmcsIFN3aXBlQXBwbGljYXRpb24uZ2V0UmVzKCkuZ2V0RHJhd2FibGUoUi5kcmF3YWJsZS50ZW1wbGF0ZV9pdGVtX3ByZXNzZWQpCj09PT09PT0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
