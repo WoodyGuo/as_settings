@@ -707,8 +707,8 @@
         <mark key="." line="241" column="15" />
         <mark key="[" line="240" column="58" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" timestamp="1447922288562">
-        <mark key="'" line="652" column="61" />
+      <file name="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" timestamp="1448014432179">
+        <mark key="'" line="16" column="26" />
         <mark key="]" line="621" column="3" />
         <mark key="^" line="621" column="3" />
         <mark key="." line="621" column="3" />
@@ -1106,7 +1106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="52" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/theme/matched/LauncherThemeMapping.java" />
       <jump line="240" column="35" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/theme/matched/LauncherThemeMapping.java" />
       <jump line="241" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/theme/matched/LauncherThemeMapping.java" />
       <jump line="322" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/theme/matched/LauncherTheme.java" />
@@ -1206,6 +1205,7 @@
       <jump line="202" column="40" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/TileHelper.java" />
       <jump line="203" column="42" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/TileHelper.java" />
       <jump line="204" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/TileHelper.java" />
+      <jump line="16" column="26" filename="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
