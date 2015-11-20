@@ -948,11 +948,12 @@
         <mark key="." line="45" column="32" />
         <mark key="[" line="45" column="33" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/proguard-rules.pro" timestamp="1448018371578">
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="[" line="21" column="0" />
+      <file name="E:/Apps/LazySwipe/app/proguard-rules.pro" timestamp="1448019008257">
+        <mark key="'" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="[" line="59" column="25" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/ui/FloatWindowHintView.java" timestamp="1447990625117">
         <mark key="]" line="43" column="60" />
@@ -1044,12 +1045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="26" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/theme/Theme.java" />
-      <jump line="300" column="48" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/theme/Theme.java" />
-      <jump line="304" column="63" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/theme/Theme.java" />
-      <jump line="308" column="63" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/theme/Theme.java" />
-      <jump line="312" column="63" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/theme/Theme.java" />
-      <jump line="51" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/theme/Theme.java" />
       <jump line="72" column="45" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/theme/ThemeManager.java" />
       <jump line="427" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/poptime/MostUsedGuideTip.java" />
       <jump line="190" column="30" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/poptime/MostUsedGuideTip.java" />
@@ -1144,10 +1139,16 @@
       <jump line="204" column="29" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdController.java" />
       <jump line="225" column="42" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdController.java" />
       <jump line="111" column="75" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdWallController.java" />
+      <jump line="10" column="0" filename="E:/Apps/LazySwipe/app/proguard-rules.pro" />
+      <jump line="61" column="17" filename="E:/Apps/LazySwipe/app/proguard-rules.pro" />
+      <jump line="56" column="2" filename="E:/Apps/LazySwipe/app/proguard-rules.pro" />
+      <jump line="57" column="17" filename="E:/Apps/LazySwipe/app/proguard-rules.pro" />
+      <jump line="59" column="14" filename="E:/Apps/LazySwipe/app/proguard-rules.pro" />
+      <jump line="60" column="0" filename="E:/Apps/LazySwipe/app/proguard-rules.pro" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icG9wdXBfc2hhcmUiPiJTaGFyZSI8L3N0cmluZz4K</text>
@@ -1156,52 +1157,52 @@
         <text encoding="base64">ICAgICAgICBpZiAoTW9idmlzdGFTZGtJbXBsLkZPUkNFX0FTU0VUX0xJQikgewogICAgICAgICAgICBzTW9idmlzdGFTZGtJbXBsLmNvcHlGcm9tQXNzZXQoY29udGV4dCk7CiAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtUGxhY2VtZW50SWRcPg==</text>
+        <text>facebook</text>
       </register>
       <register name="-" type="4">
+        <text encoding="base64">ICAg</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgIA==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIA==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLm1vYnZpc3RhLioqIHsqOyB9Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQGRlcHJlY2F0ZWQgdXNlIHtAbGluayBjb20ubGF6eXN3aXBlLkNvbnN0YW50cyNIRUlHSFRfUElYRUxTfSBpbnN0ZWFkCiAgICAgKi8K</text>
       </register>
       <register name="7" type="4">
-        <text>AFFILIATE_NATIVE</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="6" type="4">
-        <text>false</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
-      <register name="5" type="4">
-        <text>false</text>
+      <register name="5" type="2">
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLm1vYnZpc3RhLioqIHsqOyB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>926803720707606_927196114001700</text>
+        <text>false</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text>false</text>
       </register>
       <register name="z" type="4">
         <text>l = Long.parseLong(checkSum, 16);</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtUGxhY2VtZW50SWRcPg==</last-search>
+      <last-search>facebook</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtUGxhY2VtZW50SWRcPg==</last-pattern>
+      <last-pattern>facebook</last-pattern>
       <last-replace>(getContext())</last-replace>
       <last-substitute>(context)</last-substitute>
       <last-dir>1</last-dir>
@@ -1268,6 +1269,7 @@
         <entry>expand</entry>
         <entry encoding="base64">XDxXRUFUSEVSX0RFVEFJTFNfQ09OVFJPTExFUlw+</entry>
         <entry encoding="base64">XDxtUGxhY2VtZW50SWRcPg==</entry>
+        <entry>facebook</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist imple</entry>
