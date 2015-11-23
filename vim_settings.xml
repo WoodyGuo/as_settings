@@ -100,6 +100,13 @@
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/weather/bean/RealTimeWeatherCondition.java" timestamp="1447913255909">
         <mark key="'" line="143" column="58" />
       </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/notification/SwipeNotification.java" timestamp="1448249891980">
+        <mark key="'" line="1214" column="34" />
+        <mark key="]" line="1192" column="109" />
+        <mark key="^" line="1192" column="109" />
+        <mark key="." line="1192" column="109" />
+        <mark key="[" line="1192" column="107" />
+      </file>
       <file name="/Dummy.jql" timestamp="1448012182126">
         <mark key="[" line="0" column="0" />
       </file>
@@ -389,12 +396,8 @@
         <mark key="." line="257" column="15" />
         <mark key="[" line="256" column="40" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipeService.java" timestamp="1448243824239">
-        <mark key="'" line="935" column="39" />
-        <mark key="]" line="330" column="39" />
-        <mark key="^" line="330" column="39" />
-        <mark key="." line="330" column="39" />
-        <mark key="[" line="330" column="12" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipeService.java" timestamp="1448249086733">
+        <mark key="'" line="755" column="12" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/notification/NotificationBgHelper.java" timestamp="1448002450021">
         <mark key="'" line="89" column="31" />
@@ -461,7 +464,7 @@
       <file name="/a.txt" timestamp="1448008094786">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1448242404369">
+      <file name="/a.dummy" timestamp="1448248615588">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/theme/OnlineTheme.java" timestamp="1447992290824">
@@ -669,8 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="45" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/lucky/slot/SlotRoller.java" />
-      <jump line="58" column="55" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/lucky/slot/SlotResourceTask.java" />
       <jump line="79" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/lucky/slot/SlotResourceTask.java" />
       <jump line="58" column="50" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/CoreSettingsChangeListener.java" />
       <jump line="180" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/lucky/slot/SlotResultContent.java" />
@@ -769,10 +770,12 @@
       <jump line="241" column="40" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/Toucher.java" />
       <jump line="233" column="49" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/Toucher.java" />
       <jump line="356" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/Toucher.java" />
+      <jump line="758" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipeService.java" />
+      <jump line="1165" column="34" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/notification/SwipeNotification.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+      <register name="&quot;" type="4">
+        <text>; probably deleted by a previous call to clearSmsMessages()</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icG9wdXBfc2hhcmUiPiJTaGFyZSI8L3N0cmluZz4K</text>
@@ -781,52 +784,52 @@
         <text encoding="base64">ICAgICAgICBpZiAoTW9idmlzdGFTZGtJbXBsLkZPUkNFX0FTU0VUX0xJQikgewogICAgICAgICAgICBzTW9idmlzdGFTZGtJbXBsLmNvcHlGcm9tQXNzZXQoY29udGV4dCk7CiAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="/" type="4">
-        <text>onWindowF</text>
+        <text>here com</text>
       </register>
       <register name="-" type="4">
-        <text>show();</text>
+        <text>; probably deleted by a previous call to clearSmsMessages()</text>
       </register>
       <register name="3" type="4">
-        <text>show();</text>
+        <text>; probably deleted by a previous call to clearSmsMessages()</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uV2luZG93Rm9jdXNDaGFuZ2VkKGJvb2xlYW4gaGFzV2luZG93Rm9jdXMpIHsKICAgICAgICBzdXBlci5vbldpbmRvd0ZvY3VzQ2hhbmdlZChoYXNXaW5kb3dGb2N1cyk7CiAgICAgICAgTG9nLmQoVEFHLCAiV2luZG93IGZvY3VzIGNoYW5nZWQ7IG5vdyBoYXMgZm9jdXM/ICIgKyBoYXNXaW5kb3dGb2N1cyk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgdm9pZCBvbldpbmRvd1Zpc2liaWxpdHlDaGFuZ2VkKGludCB2aXNpYmlsaXR5KSB7CiAgICAgICAgc3VwZXIub25XaW5kb3dWaXNpYmlsaXR5Q2hhbmdlZCh2aXNpYmlsaXR5KTsKICAgICAgICBMb2cuZChUQUcsICJXaW5kb3cgdmlzaWJpbGl0eSBjaGFuZ2VkOiAiICsgdmlzaWJpbGl0eSk7CiAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>z</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+      <register name="1" type="4">
+        <text>; probably deleted by a previous call to clearSmsMessages()</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJXaW5kb3cgZm9jdXMgY2hhbmdlZDsgbm93IGhhcyBmb2N1cz8gIiArIGhhc1dpbmRvd0ZvY3VzKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>focus</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>; now has focus?</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIA==</text>
       </register>
       <register name="5" type="4">
-        <text>hasWindowFocus</text>
+        <text encoding="base64">IHByb2JhYmx5IGRlbGV0ZWQgYnkgYSBwcmV2aW91cyBjYWxsIHRvIGNsZWFyU21zTWVzc2FnZXMoKQ==</text>
       </register>
       <register name="4" type="4">
-        <text>hide</text>
+        <text>;</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>||</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uV2luZG93Rm9jdXNDaGFuZ2VkKGJvb2xlYW4gaGFzV2luZG93Rm9jdXMpIHsKICAgICAgICBzdXBlci5vbldpbmRvd0ZvY3VzQ2hhbmdlZChoYXNXaW5kb3dGb2N1cyk7CiAgICAgICAgTG9nLmQoVEFHLCAiV2luZG93IGZvY3VzIGNoYW5nZWQ7IG5vdyBoYXMgZm9jdXM/ICIgKyBoYXNXaW5kb3dGb2N1cyk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgdm9pZCBvbldpbmRvd1Zpc2liaWxpdHlDaGFuZ2VkKGludCB2aXNpYmlsaXR5KSB7CiAgICAgICAgc3VwZXIub25XaW5kb3dWaXNpYmlsaXR5Q2hhbmdlZCh2aXNpYmlsaXR5KTsKICAgICAgICBMb2cuZChUQUcsICJXaW5kb3cgdmlzaWJpbGl0eSBjaGFuZ2VkOiAiICsgdmlzaWJpbGl0eSk7CiAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Utils.getProcessName()</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="z" type="4">
         <text>l = Long.parseLong(checkSum, 16);</text>
       </register>
     </registers>
     <search>
-      <last-search>onWindowF</last-search>
+      <last-search>here com</last-search>
       <last-offset />
-      <last-pattern>onWindowF</last-pattern>
+      <last-pattern>here com</last-pattern>
       <last-replace>(getContext())</last-replace>
       <last-substitute>(context)</last-substitute>
       <last-dir>1</last-dir>
@@ -859,6 +862,7 @@
         <entry>stat</entry>
         <entry>onUser</entry>
         <entry>onWindowF</entry>
+        <entry>here com</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxjb250ZXh0XD4vbUNvbnRleHQvZw==</entry>
@@ -880,8 +884,8 @@
         <entry>.,.+2action GotoNextError</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action GotoNextError</entry>
-        <entry>w</entry>
         <entry>action FindUsages</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
