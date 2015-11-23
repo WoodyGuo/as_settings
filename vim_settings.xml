@@ -231,8 +231,8 @@
         <mark key="." line="241" column="15" />
         <mark key="[" line="240" column="58" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" timestamp="1448016528521">
-        <mark key="'" line="16" column="26" />
+      <file name="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" timestamp="1448244711220">
+        <mark key="'" line="623" column="0" />
         <mark key="]" line="608" column="73" />
         <mark key="^" line="675" column="3" />
         <mark key="." line="675" column="3" />
@@ -1041,15 +1041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="638" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/lucky/slot/SlotMachine.java" />
-      <jump line="98" column="37" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/lucky/slot/SlotMachine.java" />
-      <jump line="760" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/lucky/slot/SlotMachine.java" />
-      <jump line="209" column="35" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/lucky/dice/RemoteResDiceDrawable.java" />
-      <jump line="86" column="15" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/lucky/dice/RemoteResDiceDrawable.java" />
-      <jump line="87" column="57" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/lucky/LuckyAnimationHelper.java" />
-      <jump line="44" column="46" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/guide/NewSwipeGuideView.java" />
-      <jump line="32" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/guide/NewSwipeGuideView.java" />
-      <jump line="831" column="44" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" />
       <jump line="128" column="68" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/festival/HalloweenThemeInfo.java" />
       <jump line="114" column="44" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/festival/HalloweenThemeTip.java" />
       <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/festival/HalloweenThemeTip.java" />
@@ -1141,6 +1132,15 @@
       <jump line="1011" column="32" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/DeviceUtils.java" />
       <jump line="1591" column="49" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/Utils.java" />
       <jump line="935" column="39" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipeService.java" />
+      <jump line="620" column="33" filename="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" />
+      <jump line="54" column="65" filename="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" />
+      <jump line="59" column="69" filename="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" />
+      <jump line="60" column="69" filename="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" />
+      <jump line="61" column="66" filename="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" />
+      <jump line="62" column="66" filename="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" />
+      <jump line="68" column="72" filename="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" />
+      <jump line="73" column="68" filename="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" />
+      <jump line="623" column="0" filename="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1153,7 +1153,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoTW9idmlzdGFTZGtJbXBsLkZPUkNFX0FTU0VUX0xJQikgewogICAgICAgICAgICBzTW9idmlzdGFTZGtJbXBsLmNvcHlGcm9tQXNzZXQoY29udGV4dCk7CiAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="/" type="4">
-        <text>STAT</text>
+        <text>stat</text>
       </register>
       <register name="-" type="4">
         <text>Utils.getProcessName()</text>
@@ -1196,9 +1196,9 @@
       </register>
     </registers>
     <search>
-      <last-search>STAT</last-search>
+      <last-search>stat</last-search>
       <last-offset />
-      <last-pattern>STAT</last-pattern>
+      <last-pattern>stat</last-pattern>
       <last-replace>(getContext())</last-replace>
       <last-substitute>(context)</last-substitute>
       <last-dir>1</last-dir>
@@ -1228,6 +1228,7 @@
         <entry>facebook</entry>
         <entry>getLo</entry>
         <entry>STAT</entry>
+        <entry>stat</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxjb250ZXh0XD4vbUNvbnRleHQvZw==</entry>
