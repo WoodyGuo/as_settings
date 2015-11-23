@@ -441,12 +441,11 @@
         <mark key="." line="189" column="80" />
         <mark key="[" line="189" column="51" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/splash/SplashView.java" timestamp="1448257573561">
-        <mark key="'" line="76" column="57" />
-        <mark key="]" line="76" column="37" />
-        <mark key="^" line="76" column="37" />
-        <mark key="." line="76" column="37" />
-        <mark key="[" line="76" column="34" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/splash/SplashView.java" timestamp="1448258415394">
+        <mark key="]" line="93" column="11" />
+        <mark key="^" line="93" column="11" />
+        <mark key="." line="93" column="11" />
+        <mark key="[" line="92" column="37" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/theme/ColorTheme.java" timestamp="1448000035415">
         <mark key="]" line="33" column="15" />
@@ -619,11 +618,11 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/splash/SplashController.java" timestamp="1448257483942">
-        <mark key="]" line="263" column="35" />
-        <mark key="^" line="263" column="35" />
-        <mark key="." line="263" column="35" />
-        <mark key="[" line="262" column="92" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/splash/SplashController.java" timestamp="1448259402455">
+        <mark key="'" line="301" column="43" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+        <mark key="[" line="171" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/upgrade/SilenceUpgradeHelper.java" timestamp="1448001930899">
         <mark key="'" line="61" column="35" />
@@ -1012,7 +1011,7 @@
         <mark key="." line="24" column="48" />
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1448257338510">
+      <file name="/fragment.java" timestamp="1448259401019">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdWallController.java" timestamp="1448017973972">
@@ -1066,11 +1065,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1039" column="30" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/FanItem.java" />
-      <jump line="59" column="45" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/FanItem.java" />
-      <jump line="697" column="55" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/FanItem.java" />
-      <jump line="58" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/FanItem.java" />
-      <jump line="643" column="52" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/FanItem.java" />
       <jump line="202" column="14" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/data/FanItemInfo.java" />
       <jump line="494" column="66" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/friend/Communication.java" />
       <jump line="61" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/friend/Communication.java" />
@@ -1166,10 +1160,15 @@
       <jump line="59" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/splash/SplashView.java" />
       <jump line="66" column="64" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/splash/SplashView.java" />
       <jump line="76" column="57" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/splash/SplashView.java" />
+      <jump line="50" column="7" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/splash/SplashView.java" />
+      <jump line="290" column="30" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/splash/SplashController.java" />
+      <jump line="292" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/splash/SplashController.java" />
+      <jump line="300" column="61" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/splash/SplashController.java" />
+      <jump line="302" column="43" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/splash/SplashController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>context</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1heERpc3BsYXljb3VudCA9PSAwKSBtYXhEaXNwbGF5Y291bnQgPSAxOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icG9wdXBfc2hhcmUiPiJTaGFyZSI8L3N0cmluZz4K</text>
@@ -1178,52 +1177,58 @@
         <text encoding="base64">ICAgICAgICBpZiAoTW9idmlzdGFTZGtJbXBsLkZPUkNFX0FTU0VUX0xJQikgewogICAgICAgICAgICBzTW9idmlzdGFTZGtJbXBsLmNvcHlGcm9tQXNzZXQoY29udGV4dCk7CiAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcmllbnRhdGlvblw+</text>
+        <text encoding="base64">XDxjb250ZXh0XD4=</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>new Splash()</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25CYWNrUHJlc3NlZCgpOwo=</text>
+      <register name="3" type="4">
+        <text>new Splash()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNTcGxhc2hMaXN0LmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgU3BsYXNoIHNwbGFzaCA9IG5ldyBTcGxhc2goKTsKICAgICAgICAgICAgICAgIHNwbGFzaC5pbWdVcmwgPSAiYXBwX3Byb21vdGlvbi5wbmciOwogICAgICAgICAgICAgICAgc1NwbGFzaExpc3QuYWRkKHNwbGFzaCk7CiAgICAgICAgICAgIH0KCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>context</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1heERpc3BsYXljb3VudCA9PSAwKSBtYXhEaXNwbGF5Y291bnQgPSAxOwo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFNwbGFzaENvbnRyb2xsZXIuaGlkZShjb250ZXh0LCBTcGxhc2hWaWV3LnRoaXMsIG9yaWVudGF0aW9uKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29udGV4dCBjb250ZXh0ID0gU3dpcGVBcHBsaWNhdGlvbi5nZXRJbnN0YW5jZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNwbGFzaENvbnRyb2xsZXIuaGlkZShtT3duZXIsIFNwbGFzaFZpZXcudGhpcywgbVByZXZpb3VzUmVxdWVzdGVkT3JpZW50YXRpb24pOwo=</text>
       </register>
       <register name="6" type="4">
-        <text>DeviceUtils.getScreenWidth();</text>
+        <text>new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                onKeyUp(KeyEvent.KEYCODE_BACK
+                        , new KeyEvent(KeyEvent.ACTION_UP, KeyEvent.KEYCODE_BACK));
+            }
+        }</text>
       </register>
-      <register name="5" type="4">
-        <text>DeviceUtils.getScreenHeight();</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>event.getKeyCode()</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3BsYXNoQ29udHJvbGxlci5oaWRlKG1Pd25lciwgdGhpcywgbVByZXZpb3VzUmVxdWVzdGVkT3JpZW50YXRpb24pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>getContext()</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>KCB</text>
       </register>
       <register name="z" type="4">
         <text>loadIcon(mIcon, mNativeAd.getAdIcon().getUrl())</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcmllbnRhdGlvblw+</last-search>
+      <last-search encoding="base64">XDxjb250ZXh0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcmllbnRhdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb250ZXh0XD4=</last-pattern>
       <last-replace>(getContext())</last-replace>
       <last-substitute>(context)</last-substitute>
       <last-dir>1</last-dir>
@@ -1262,6 +1267,7 @@
         <entry>onKey</entry>
         <entry encoding="base64">XDxtQ291bnREb3duVGlja1ZpZXdcPg==</entry>
         <entry encoding="base64">XDxvcmllbnRhdGlvblw+</entry>
+        <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxjb250ZXh0XD4vbUNvbnRleHQvZw==</entry>
