@@ -124,6 +124,13 @@
         <mark key="." line="234" column="68" />
         <mark key="[" line="234" column="57" />
       </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchScrollableAdsNativeView.java" timestamp="1448253839392">
+        <mark key="'" line="58" column="38" />
+        <mark key="]" line="359" column="22" />
+        <mark key="^" line="359" column="22" />
+        <mark key="." line="359" column="22" />
+        <mark key="[" line="358" column="82" />
+      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdConfig.java" timestamp="1447988493818">
         <mark key="'" line="483" column="16" />
       </file>
@@ -672,7 +679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/lucky/slot/SlotResourceTask.java" />
       <jump line="58" column="50" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/CoreSettingsChangeListener.java" />
       <jump line="180" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/lucky/slot/SlotResultContent.java" />
       <jump line="188" column="37" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/StorageReceiver.java" />
@@ -772,10 +778,11 @@
       <jump line="356" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/Toucher.java" />
       <jump line="758" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipeService.java" />
       <jump line="1165" column="34" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/notification/SwipeNotification.java" />
+      <jump line="58" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchScrollableAdsNativeView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>; probably deleted by a previous call to clearSmsMessages()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icG9wdXBfc2hhcmUiPiJTaGFyZSI8L3N0cmluZz4K</text>
@@ -787,28 +794,28 @@
         <text>here com</text>
       </register>
       <register name="-" type="4">
-        <text>; probably deleted by a previous call to clearSmsMessages()</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>; probably deleted by a previous call to clearSmsMessages()</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>z</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
-        <text>; probably deleted by a previous call to clearSmsMessages()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJXaW5kb3cgZm9jdXMgY2hhbmdlZDsgbm93IGhhcyBmb2N1cz8gIiArIGhhc1dpbmRvd0ZvY3VzKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>z</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIA==</text>
+      <register name="6" type="4">
+        <text>; probably deleted by a previous call to clearSmsMessages()</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IHByb2JhYmx5IGRlbGV0ZWQgYnkgYSBwcmV2aW91cyBjYWxsIHRvIGNsZWFyU21zTWVzc2FnZXMoKQ==</text>
+        <text>loadIcon(mIcon, mNativeAd.getAdIcon().getUrl())</text>
       </register>
       <register name="4" type="4">
         <text>;</text>
@@ -816,14 +823,14 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uV2luZG93Rm9jdXNDaGFuZ2VkKGJvb2xlYW4gaGFzV2luZG93Rm9jdXMpIHsKICAgICAgICBzdXBlci5vbldpbmRvd0ZvY3VzQ2hhbmdlZChoYXNXaW5kb3dGb2N1cyk7CiAgICAgICAgTG9nLmQoVEFHLCAiV2luZG93IGZvY3VzIGNoYW5nZWQ7IG5vdyBoYXMgZm9jdXM/ICIgKyBoYXNXaW5kb3dGb2N1cyk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgdm9pZCBvbldpbmRvd1Zpc2liaWxpdHlDaGFuZ2VkKGludCB2aXNpYmlsaXR5KSB7CiAgICAgICAgc3VwZXIub25XaW5kb3dWaXNpYmlsaXR5Q2hhbmdlZCh2aXNpYmlsaXR5KTsKICAgICAgICBMb2cuZChUQUcsICJXaW5kb3cgdmlzaWJpbGl0eSBjaGFuZ2VkOiAiICsgdmlzaWJpbGl0eSk7CiAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text>;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+      <register name="8" type="4">
+        <text>; probably deleted by a previous call to clearSmsMessages()</text>
       </register>
       <register name="z" type="4">
-        <text>l = Long.parseLong(checkSum, 16);</text>
+        <text>loadIcon(mIcon, mNativeAd.getAdIcon().getUrl())</text>
       </register>
     </registers>
     <search>
