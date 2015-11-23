@@ -118,6 +118,11 @@
         <mark key="." line="394" column="73" />
         <mark key="[" line="394" column="62" />
       </file>
+      <file name="E:/Apps/LazySwipe/build.gradle" timestamp="1448012526491">
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+        <mark key="[" line="22" column="21" />
+      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/Constants.java" timestamp="1448243054119">
         <mark key="'" line="0" column="0" />
       </file>
@@ -409,17 +414,26 @@
         <mark key="." line="229" column="18" />
         <mark key="[" line="228" column="35" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/notification/sms/NotificationPopup.java" timestamp="1448264311628">
-        <mark key="]" line="454" column="4" />
-        <mark key="^" line="504" column="49" />
-        <mark key="." line="504" column="49" />
-        <mark key="[" line="387" column="0" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/qsearch/GoogleContactSyncActivity.java" timestamp="1448009474169">
+        <mark key="]" line="72" column="36" />
+        <mark key="." line="72" column="36" />
+        <mark key="[" line="72" column="36" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/notification/sms/NotificationPopup.java" timestamp="1448268125585">
+        <mark key="]" line="392" column="59" />
+        <mark key="." line="392" column="0" />
+        <mark key="[" line="392" column="8" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/booster/ui/BoostingCircular.java" timestamp="1448000361009">
         <mark key="]" line="729" column="45" />
         <mark key="^" line="729" column="45" />
         <mark key="." line="729" column="45" />
         <mark key="[" line="729" column="34" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/MusicTile.java" timestamp="1448009480076">
+        <mark key="]" line="61" column="34" />
+        <mark key="." line="61" column="34" />
+        <mark key="[" line="61" column="34" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchWebActivity.java" timestamp="1447947766624">
         <mark key="'" line="58" column="51" />
@@ -496,12 +510,17 @@
         <mark key="." line="461" column="56" />
         <mark key="[" line="461" column="45" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" timestamp="1448267033957">
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" timestamp="1448267730900">
         <mark key="'" line="94" column="21" />
-        <mark key="]" line="394" column="27" />
-        <mark key="^" line="394" column="27" />
-        <mark key="." line="394" column="27" />
-        <mark key="[" line="394" column="16" />
+        <mark key="]" line="515" column="23" />
+        <mark key="^" line="515" column="23" />
+        <mark key="." line="515" column="23" />
+        <mark key="[" line="514" column="24" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/Trace.java" timestamp="1448242839356">
+        <mark key="]" line="68" column="50" />
+        <mark key="." line="68" column="0" />
+        <mark key="[" line="68" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/ScreenIndicatorLineView.java" timestamp="1448005268451">
         <mark key="'" line="68" column="29" />
@@ -818,8 +837,12 @@
         <mark key="." line="38" column="35" />
         <mark key="[" line="38" column="44" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/BaseFloatingView.java" timestamp="1448265124676">
-        <mark key="'" line="32" column="19" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/BaseFloatingView.java" timestamp="1448267640355">
+        <mark key="'" line="34" column="19" />
+        <mark key="]" line="339" column="0" />
+        <mark key="^" line="336" column="35" />
+        <mark key="." line="339" column="0" />
+        <mark key="[" line="339" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/poptime/PopTimeBlackList.java" timestamp="1448242958617">
         <mark key="'" line="559" column="31" />
@@ -980,9 +1003,13 @@
         <mark key="." line="93" column="53" />
         <mark key="[" line="93" column="47" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" timestamp="1448265330803">
-        <mark key="'" line="569" column="44" />
-        <mark key="^" line="947" column="42" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" timestamp="1448268456636">
+        <mark key="'" line="1059" column="38" />
+        <mark key="a" line="435" column="15" />
+        <mark key="]" line="435" column="15" />
+        <mark key="^" line="435" column="15" />
+        <mark key="." line="435" column="15" />
+        <mark key="[" line="435" column="8" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/AppFilter.java" timestamp="1447848376501">
         <mark key="'" line="230" column="43" />
@@ -1052,16 +1079,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/TileHelper.java" />
-      <jump line="16" column="26" filename="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" />
-      <jump line="140" column="31" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdManager.java" />
-      <jump line="171" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdManager.java" />
-      <jump line="113" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdController.java" />
-      <jump line="178" column="37" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdController.java" />
-      <jump line="204" column="29" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdController.java" />
-      <jump line="225" column="42" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdController.java" />
-      <jump line="111" column="75" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/mobvista/MobvistaAdWallController.java" />
-      <jump line="10" column="0" filename="E:/Apps/LazySwipe/app/proguard-rules.pro" />
       <jump line="61" column="17" filename="E:/Apps/LazySwipe/app/proguard-rules.pro" />
       <jump line="56" column="2" filename="E:/Apps/LazySwipe/app/proguard-rules.pro" />
       <jump line="57" column="17" filename="E:/Apps/LazySwipe/app/proguard-rules.pro" />
@@ -1152,64 +1169,74 @@
       <jump line="432" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
       <jump line="436" column="9" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
       <jump line="94" column="21" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="1084" column="4" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" />
+      <jump line="390" column="22" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" />
+      <jump line="1086" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" />
+      <jump line="435" column="15" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" />
+      <jump line="1033" column="4" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" />
+      <jump line="1041" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" />
+      <jump line="1046" column="16" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" />
+      <jump line="1049" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" />
+      <jump line="1054" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" />
+      <jump line="1059" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!(view instanceof TextView)</text>
+        <text>return super.handleFlingLeft(e1, e2, velocityX, velocityY);</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icG9wdXBfc2hhcmUiPiJTaGFyZSI8L3N0cmluZz4K</text>
       </register>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoTW9idmlzdGFTZGtJbXBsLkZPUkNFX0FTU0VUX0xJQikgewogICAgICAgICAgICBzTW9idmlzdGFTZGtJbXBsLmNvcHlGcm9tQXNzZXQoY29udGV4dCk7CiAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VsZkFuYWx5c2lzLmxvZ05vcm1hbEV2ZW50KGdldENvbnRleHQoKSwgIkNUIiwgMik7Cg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtRGlzbWlzc1NjcmVlbnNob3RWaWV3UnVubmFibGVcPg==</text>
+        <text>exit</text>
       </register>
       <register name="-" type="4">
-        <text>!(view instanceof TextView)</text>
+        <text>return super.handleFlingLeft(e1, e2, velocityX, velocityY);</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGhpZGUoKSB7CiAgICAgICAgcmVtb3ZlQ2FsbGJhY2tzKHRoaXMpOwogICAgICAgIHJldHVybiBzdXBlci5oaWRlKCk7CiAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>Left</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDbGlja2FibGUodHJ1ZSk7Cgo=</text>
+      <register name="2" type="4">
+        <text>Left</text>
       </register>
       <register name="1" type="4">
-        <text>!(view instanceof TextView)</text>
+        <text>return super.handleFlingLeft(e1, e2, velocityX, velocityY);</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gaGFuZGxlRmxpbmcoTW90aW9uRXZlbnQgZTEsIE1vdGlvbkV2ZW50IGUyLCBmbG9hdCB2ZWxvY2l0eVgsIGZsb2F0IHZlbG9jaXR5WSkgewogICAgICAgIGlmIChudWxsID09IG1EYXRhKSByZXR1cm4gc3VwZXIuaGFuZGxlRmxpbmcoZTEsIGUyLCB2ZWxvY2l0eVgsIHZlbG9jaXR5WSk7CgogICAgICAgIGZsb2F0IHggPSBlMi5nZXRYKCkgLSBlMS5nZXRYKCk7CiAgICAgICAgZmxvYXQgeSA9IGUyLmdldFkoKSAtIGUxLmdldFkoKTsKICAgICAgICBmbG9hdCB4X2FicyA9IE1hdGguYWJzKHgpOwogICAgICAgIGZsb2F0IHlfYWJzID0gTWF0aC5hYnMoeSk7CiAgICAgICAgaWYgKHhfYWJzID49IHlfYWJzKSB7CiAgICAgICAgICAgIFNlbGZBbmFseXNpcy5sb2dOb3JtYWxFdmVudChnZXRDb250ZXh0KCksICJDVCIsIDIpOwogICAgICAgICAgICAvLyBBbmFseXNpcy5nZXRJbnN0YW5jZSgpLmxvZ0V2ZW50KCJOb3RpZmljYXRpb25Qb3B1cCIsICJyIiwgMik7CiAgICAgICAgICAgIC8vIGdlc3R1cmUgbGVmdCBvciByaWdodAogICAgICAgICAgICBpZiAoeCA+IDApIHsKICAgICAgICAgICAgICAgIC8vIHJpZ2h0CiAgICAgICAgICAgICAgICBpZiAoREVCVUcpIExvZy5kKFRBRywgIlN3aXBlIHJpZ2h0Iik7CiAgICAgICAgICAgICAgICBhbmltYXRlSGlkZShTV0lQRV9ESVJFQ1RJT05fUklHSFQsIG1DbGVhck5vdGlmaWNhdGlvblJ1bm5hYmxlKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vIGxlZnQKICAgICAgICAgICAgICAgIGlmIChERUJVRykgTG9nLmQoVEFHLCAiU3dpcGUgbGVmdCIpOwogICAgICAgICAgICAgICAgYW5pbWF0ZUhpZGUoU1dJUEVfRElSRUNUSU9OX0xFRlQsIG1DbGVhck5vdGlmaWNhdGlvblJ1bm5hYmxlKTsKICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIC8vIGdlc3R1cmUgZG93biBvciB1cAogICAgICAgICAgICBpZiAoeSA+IDApIHsKICAgICAgICAgICAgICAgIFNlbGZBbmFseXNpcy5sb2dOb3JtYWxFdmVudChnZXRDb250ZXh0KCksICJDVCIsIDQpOwogICAgICAgICAgICAgICAgLy8gQW5hbHlzaXMuZ2V0SW5zdGFuY2UoKS5sb2dFdmVudCgiTm90aWZpY2F0aW9uUG9wdXAiLCAiciIsIDQpOwogICAgICAgICAgICAgICAgLy8gZG93bgogICAgICAgICAgICAgICAgaWYgKERFQlVHKSBMb2cuZChUQUcsICJTd2lwZSBkb3duIik7CiAgICAgICAgICAgICAgICBhbmltYXRlSGlkZShTV0lQRV9ESVJFQ1RJT05fRE9XTik7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAvLyB1cAogICAgICAgICAgICAgICAgaWYgKERFQlVHKSBMb2cuZChUQUcsICJTd2lwZSB1cCIpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiB0cnVlOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIGJvb2xlYW4gc2hvdWxkSGFuZGxlRmxpbmdTZWxmKCkgewogICAgICAgIHJldHVybiB0cnVlOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIGJvb2xlYW4gaGFuZGxlU2Nyb2xsKAogICAgICAgICAgICBNb3Rpb25FdmVudCBlMSwgTW90aW9uRXZlbnQgZTIsIGZsb2F0IGRpc3RhbmNlWCwgZmxvYXQgZGlzdGFuY2VZKSB7CiAgICAgICAgaWYgKEVOQUJMRV9TQ1JPTEwKICAgICAgICAgICAgICAgICYmIE1hdGguYWJzKGUyLmdldFJhd1goKS1lMS5nZXRSYXdYKCkpID4gTWF0aC5hYnMoZTIuZ2V0UmF3WSgpLWUxLmdldFJhd1koKSkpIHsKICAgICAgICAgICAgbUlzU2Nyb2xsaW5nID0gdHJ1ZTsKICAgICAgICAgICAgLy8gbUxheW91dFBhcmFtcy54IC09IGRpc3RhbmNlWDsKICAgICAgICAgICAgbUxheW91dFBhcmFtcy54ID0gKGludCkgKG1Ib3Jpem9udGFsTWFyZ2luICsgKGUyLmdldFJhd1goKS1lMS5nZXRSYXdYKCkpKTsKICAgICAgICAgICAgdXBkYXRlV2luZG93KCk7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gc3VwZXIuaGFuZGxlU2Nyb2xsKGUxLCBlMiwgZGlzdGFuY2VYLCBkaXN0YW5jZVkpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgaGFuZGxlU2Nyb2xsRmluaXNoZWQoTW90aW9uRXZlbnQgZSkgewogICAgICAgIGlmIChFTkFCTEVfU0NST0xMKSB7CiAgICAgICAgICAgIGludCBkZWx0YSA9IChpbnQpIChlLmdldFJhd1goKSAtIG1MYXN0UmF3WCk7CiAgICAgICAgICAgIGlmIChNYXRoLmFicyhkZWx0YSkgPiAobVNjcmVlbkhlaWdodCA+PiAxKSkgewogICAgICAgICAgICAgICAgYW5pbWF0ZUhpZGUoZGVsdGEgPCAwID8gU1dJUEVfRElSRUNUSU9OX0xFRlQgOiBTV0lQRV9ESVJFQ1RJT05fUklHSFQpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgYW5pbWF0ZVJlc2V0KCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgc2NoZWR1bGVIaWRlKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBib29sZWFuIGhhbmRsZUZsaW5nTGVmdChNb3Rpb25FdmVudCBlMSwgTW90aW9uRXZlbnQgZTIsIGZsb2F0IHZlbG9jaXR5WCwgZmxvYXQgdmVsb2NpdHlZKSB7CiAgICAgICAgcmV0dXJuIHN1cGVyLmhhbmRsZUZsaW5nTGVmdChlMSwgZTIsIHZlbG9jaXR5WCwgdmVsb2NpdHlZKTsKICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>!</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmbG9hdCB4ID0gZTIuZ2V0WCgpIC0gZTEuZ2V0WCgpOwogICAgICAgIGZsb2F0IHkgPSBlMi5nZXRZKCkgLSBlMS5nZXRZKCk7CiAgICAgICAgZmxvYXQgeF9hYnMgPSBNYXRoLmFicyh4KTsKICAgICAgICBmbG9hdCB5X2FicyA9IE1hdGguYWJzKHkpOwogICAgICAgIGlmICh4X2FicyA+PSB5X2FicykgewogICAgICAgICAgICAvLyBBbmFseXNpcy5nZXRJbnN0YW5jZSgpLmxvZ0V2ZW50KCJOb3RpZmljYXRpb25Qb3B1cCIsICJyIiwgMik7CiAgICAgICAgICAgIC8vIGdlc3R1cmUgbGVmdCBvciByaWdodAogICAgICAgICAgICBpZiAoeCA+IDApIHsKICAgICAgICAgICAgICAgIC8vIHJpZ2h0CiAgICAgICAgICAgICAgICBpZiAoREVCVUcpIExvZy5kKFRBRywgIlN3aXBlIHJpZ2h0Iik7CiAgICAgICAgICAgICAgICBhbmltYXRlSGlkZShTV0lQRV9ESVJFQ1RJT05fUklHSFQsIG1DbGVhck5vdGlmaWNhdGlvblJ1bm5hYmxlKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vIGxlZnQKICAgICAgICAgICAgICAgIGlmIChERUJVRykgTG9nLmQoVEFHLCAiU3dpcGUgbGVmdCIpOwogICAgICAgICAgICAgICAgYW5pbWF0ZUhpZGUoU1dJUEVfRElSRUNUSU9OX0xFRlQsIG1DbGVhck5vdGlmaWNhdGlvblJ1bm5hYmxlKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyBnZXN0dXJlIGRvd24gb3IgdXAKICAgICAgICAgICAgaWYgKHkgPiAwKSB7CiAgICAgICAgICAgICAgICBTZWxmQW5hbHlzaXMubG9nTm9ybWFsRXZlbnQoZ2V0Q29udGV4dCgpLCAiQ1QiLCA0KTsKICAgICAgICAgICAgICAgIC8vIEFuYWx5c2lzLmdldEluc3RhbmNlKCkubG9nRXZlbnQoIk5vdGlmaWNhdGlvblBvcHVwIiwgInIiLCA0KTsKICAgICAgICAgICAgICAgIC8vIGRvd24KICAgICAgICAgICAgICAgIGlmIChERUJVRykgTG9nLmQoVEFHLCAiU3dpcGUgZG93biIpOwogICAgICAgICAgICAgICAgYW5pbWF0ZUhpZGUoU1dJUEVfRElSRUNUSU9OX0RPV04pOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgLy8gdXAKICAgICAgICAgICAgICAgIGlmIChERUJVRykgTG9nLmQoVEFHLCAiU3dpcGUgdXAiKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmUK</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGhhbmRsZUZsaW5nTGVmdChNb3Rpb25FdmVudCBlMSwgTW90aW9uRXZlbnQgZTIsIGZsb2F0IHZlbG9jaXR5WCwgZmxvYXQgdmVsb2NpdHlZKSB7CiAgICAgICAgaWYgKG51bGwgPT0gbURhdGEpIHJldHVybiBzdXBlci5oYW5kbGVGbGluZyhlMSwgZTIsIHZlbG9jaXR5WCwgdmVsb2NpdHlZKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIGhhbmRsZVNjcm9sbEZpbmlzaGVkKE1vdGlvbkV2ZW50IGUpIHsKICAgICAgICAvLyBzY2hlZHVsZUhpZGUoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKERFQlVHKSA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vIHVwCiAgICAgICAgICAgICAgICBpZiAoREVCVUcpIExvZy5kKFRBRywgIlN3aXBlIHVwIik7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>(</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2VsZkFuYWx5c2lzLmxvZ05vcm1hbEV2ZW50KGdldENvbnRleHQoKSwgIkNUIiwgMik7Cg==</text>
       </register>
       <register name="z" type="4">
         <text>loadIcon(mIcon, mNativeAd.getAdIcon().getUrl())</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtRGlzbWlzc1NjcmVlbnNob3RWaWV3UnVubmFibGVcPg==</last-search>
+      <last-search>exit</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtRGlzbWlzc1NjcmVlbnNob3RWaWV3UnVubmFibGVcPg==</last-pattern>
+      <last-pattern>exit</last-pattern>
       <last-replace>(getContext())</last-replace>
       <last-substitute>(context)</last-substitute>
       <last-dir>1</last-dir>
@@ -1255,8 +1282,6 @@
         <entry encoding="base64">XDxzaG91bGRIYW5kbGVGbGluZ1NlbGZcPg==</entry>
         <entry encoding="base64">XDxtQ29udGVudFZpZXdcPg==</entry>
         <entry>showSc</entry>
-        <entry>handleC</entry>
-        <entry>handleFl</entry>
         <entry>postD</entry>
         <entry>removeCa</entry>
         <entry>disap</entry>
@@ -1268,6 +1293,9 @@
         <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
         <entry encoding="base64">XDxkaXNtaXNzU2NyZWVuc2hvdFZpZXdJZk5lY2Vzc2FyeVw+</entry>
         <entry encoding="base64">XDxtRGlzbWlzc1NjcmVlbnNob3RWaWV3UnVubmFibGVcPg==</entry>
+        <entry>handleFl</entry>
+        <entry>handleC</entry>
+        <entry>exit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxjb250ZXh0XD4vbUNvbnRleHQvZw==</entry>
