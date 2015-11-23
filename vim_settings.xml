@@ -409,11 +409,11 @@
         <mark key="." line="229" column="18" />
         <mark key="[" line="228" column="35" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/notification/sms/NotificationPopup.java" timestamp="1448263662258">
-        <mark key="]" line="504" column="49" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/notification/sms/NotificationPopup.java" timestamp="1448264311628">
+        <mark key="]" line="454" column="4" />
         <mark key="^" line="504" column="49" />
         <mark key="." line="504" column="49" />
-        <mark key="[" line="504" column="38" />
+        <mark key="[" line="387" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/booster/ui/BoostingCircular.java" timestamp="1448000361009">
         <mark key="]" line="729" column="45" />
@@ -496,11 +496,12 @@
         <mark key="." line="461" column="56" />
         <mark key="[" line="461" column="45" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" timestamp="1448263841827">
-        <mark key="'" line="502" column="22" />
-        <mark key="]" line="141" column="8" />
-        <mark key="." line="141" column="8" />
-        <mark key="[" line="141" column="8" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" timestamp="1448267033957">
+        <mark key="'" line="94" column="21" />
+        <mark key="]" line="394" column="27" />
+        <mark key="^" line="394" column="27" />
+        <mark key="." line="394" column="27" />
+        <mark key="[" line="394" column="16" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/ScreenIndicatorLineView.java" timestamp="1448005268451">
         <mark key="'" line="68" column="29" />
@@ -817,7 +818,7 @@
         <mark key="." line="38" column="35" />
         <mark key="[" line="38" column="44" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/BaseFloatingView.java" timestamp="1448263824289">
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/BaseFloatingView.java" timestamp="1448265124676">
         <mark key="'" line="32" column="19" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/poptime/PopTimeBlackList.java" timestamp="1448242958617">
@@ -979,8 +980,9 @@
         <mark key="." line="93" column="53" />
         <mark key="[" line="93" column="47" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" timestamp="1448263090738">
-        <mark key="^" line="939" column="42" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" timestamp="1448265330803">
+        <mark key="'" line="569" column="44" />
+        <mark key="^" line="947" column="42" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/app/AppFilter.java" timestamp="1447848376501">
         <mark key="'" line="230" column="43" />
@@ -1050,33 +1052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="407" column="17" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/ScreenIndicator.java" />
-      <jump line="636" column="25" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/ScreenIndicator.java" />
-      <jump line="644" column="25" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/ScreenIndicator.java" />
-      <jump line="68" column="29" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/ScreenIndicatorLineView.java" />
-      <jump line="467" column="32" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/ScreenIndicatorWaterView.java" />
-      <jump line="468" column="32" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/ScreenIndicatorWaterView.java" />
-      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/ScreenIndicatorWaterView.java" />
-      <jump line="60" column="26" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/Constants.java" />
-      <jump line="22" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/Constants.java" />
-      <jump line="67" column="6" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/Constants.java" />
-      <jump line="78" column="22" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/Constants.java" />
-      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/Constants.java" />
-      <jump line="2040" column="26" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/Utils.java" />
-      <jump line="37" column="13" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/DeviceUtils.java" />
-      <jump line="306" column="23" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/lucky/WallpaperLoader.java" />
-      <jump line="84" column="31" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/ScreenCaptureActivity.java" />
-      <jump line="96" column="43" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/ScreenCaptureActivity.java" />
-      <jump line="160" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipeApplication.java" />
-      <jump line="70" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipeApplication.java" />
-      <jump line="0" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipeApplication.java" />
-      <jump line="264" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipeApplication.java" />
-      <jump line="354" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/TileHelper.java" />
-      <jump line="99" column="66" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/TileHelper.java" />
-      <jump line="100" column="33" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/TileHelper.java" />
-      <jump line="201" column="35" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/TileHelper.java" />
-      <jump line="202" column="40" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/TileHelper.java" />
-      <jump line="203" column="42" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/TileHelper.java" />
       <jump line="204" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/tile/TileHelper.java" />
       <jump line="16" column="26" filename="E:/Apps/LazySwipe/app/src/main/AndroidManifest.xml" />
       <jump line="140" column="31" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AdManager.java" />
@@ -1150,10 +1125,37 @@
       <jump line="276" column="37" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/BaseFloatingView.java" />
       <jump line="32" column="19" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/BaseFloatingView.java" />
       <jump line="93" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/BaseFloatingView.java" />
+      <jump line="185" column="10" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="488" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="569" column="44" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/MemoryTip.java" />
+      <jump line="218" column="19" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="160" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="365" column="55" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="354" column="23" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="230" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="356" column="22" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="503" column="4" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="549" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="101" column="20" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="276" column="20" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="548" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="229" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="428" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="215" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="253" column="22" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="341" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="151" column="21" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="384" column="16" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="501" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="435" column="9" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="97" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="432" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="436" column="9" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
+      <jump line="94" column="21" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mContentView.</text>
+        <text>!(view instanceof TextView)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icG9wdXBfc2hhcmUiPiJTaGFyZSI8L3N0cmluZz4K</text>
@@ -1162,52 +1164,52 @@
         <text encoding="base64">ICAgICAgICBpZiAoTW9idmlzdGFTZGtJbXBsLkZPUkNFX0FTU0VUX0xJQikgewogICAgICAgICAgICBzTW9idmlzdGFTZGtJbXBsLmNvcHlGcm9tQXNzZXQoY29udGV4dCk7CiAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtQ29udGVudFZpZXdcPg==</text>
+        <text encoding="base64">XDxtRGlzbWlzc1NjcmVlbnNob3RWaWV3UnVubmFibGVcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>mContentView.</text>
+        <text>!(view instanceof TextView)</text>
       </register>
-      <register name="3" type="4">
-        <text>getWindow().</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGhpZGUoKSB7CiAgICAgICAgcmVtb3ZlQ2FsbGJhY2tzKHRoaXMpOwogICAgICAgIHJldHVybiBzdXBlci5oaWRlKCk7CiAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>pref</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRDbGlja2FibGUodHJ1ZSk7Cgo=</text>
       </register>
       <register name="1" type="4">
-        <text>mContentView.</text>
+        <text>!(view instanceof TextView)</text>
       </register>
-      <register name="0" type="4">
-        <text>mPrefDefaultTab</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gaGFuZGxlRmxpbmcoTW90aW9uRXZlbnQgZTEsIE1vdGlvbkV2ZW50IGUyLCBmbG9hdCB2ZWxvY2l0eVgsIGZsb2F0IHZlbG9jaXR5WSkgewogICAgICAgIGlmIChudWxsID09IG1EYXRhKSByZXR1cm4gc3VwZXIuaGFuZGxlRmxpbmcoZTEsIGUyLCB2ZWxvY2l0eVgsIHZlbG9jaXR5WSk7CgogICAgICAgIGZsb2F0IHggPSBlMi5nZXRYKCkgLSBlMS5nZXRYKCk7CiAgICAgICAgZmxvYXQgeSA9IGUyLmdldFkoKSAtIGUxLmdldFkoKTsKICAgICAgICBmbG9hdCB4X2FicyA9IE1hdGguYWJzKHgpOwogICAgICAgIGZsb2F0IHlfYWJzID0gTWF0aC5hYnMoeSk7CiAgICAgICAgaWYgKHhfYWJzID49IHlfYWJzKSB7CiAgICAgICAgICAgIFNlbGZBbmFseXNpcy5sb2dOb3JtYWxFdmVudChnZXRDb250ZXh0KCksICJDVCIsIDIpOwogICAgICAgICAgICAvLyBBbmFseXNpcy5nZXRJbnN0YW5jZSgpLmxvZ0V2ZW50KCJOb3RpZmljYXRpb25Qb3B1cCIsICJyIiwgMik7CiAgICAgICAgICAgIC8vIGdlc3R1cmUgbGVmdCBvciByaWdodAogICAgICAgICAgICBpZiAoeCA+IDApIHsKICAgICAgICAgICAgICAgIC8vIHJpZ2h0CiAgICAgICAgICAgICAgICBpZiAoREVCVUcpIExvZy5kKFRBRywgIlN3aXBlIHJpZ2h0Iik7CiAgICAgICAgICAgICAgICBhbmltYXRlSGlkZShTV0lQRV9ESVJFQ1RJT05fUklHSFQsIG1DbGVhck5vdGlmaWNhdGlvblJ1bm5hYmxlKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vIGxlZnQKICAgICAgICAgICAgICAgIGlmIChERUJVRykgTG9nLmQoVEFHLCAiU3dpcGUgbGVmdCIpOwogICAgICAgICAgICAgICAgYW5pbWF0ZUhpZGUoU1dJUEVfRElSRUNUSU9OX0xFRlQsIG1DbGVhck5vdGlmaWNhdGlvblJ1bm5hYmxlKTsKICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIC8vIGdlc3R1cmUgZG93biBvciB1cAogICAgICAgICAgICBpZiAoeSA+IDApIHsKICAgICAgICAgICAgICAgIFNlbGZBbmFseXNpcy5sb2dOb3JtYWxFdmVudChnZXRDb250ZXh0KCksICJDVCIsIDQpOwogICAgICAgICAgICAgICAgLy8gQW5hbHlzaXMuZ2V0SW5zdGFuY2UoKS5sb2dFdmVudCgiTm90aWZpY2F0aW9uUG9wdXAiLCAiciIsIDQpOwogICAgICAgICAgICAgICAgLy8gZG93bgogICAgICAgICAgICAgICAgaWYgKERFQlVHKSBMb2cuZChUQUcsICJTd2lwZSBkb3duIik7CiAgICAgICAgICAgICAgICBhbmltYXRlSGlkZShTV0lQRV9ESVJFQ1RJT05fRE9XTik7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAvLyB1cAogICAgICAgICAgICAgICAgaWYgKERFQlVHKSBMb2cuZChUQUcsICJTd2lwZSB1cCIpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiB0cnVlOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIGJvb2xlYW4gc2hvdWxkSGFuZGxlRmxpbmdTZWxmKCkgewogICAgICAgIHJldHVybiB0cnVlOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIGJvb2xlYW4gaGFuZGxlU2Nyb2xsKAogICAgICAgICAgICBNb3Rpb25FdmVudCBlMSwgTW90aW9uRXZlbnQgZTIsIGZsb2F0IGRpc3RhbmNlWCwgZmxvYXQgZGlzdGFuY2VZKSB7CiAgICAgICAgaWYgKEVOQUJMRV9TQ1JPTEwKICAgICAgICAgICAgICAgICYmIE1hdGguYWJzKGUyLmdldFJhd1goKS1lMS5nZXRSYXdYKCkpID4gTWF0aC5hYnMoZTIuZ2V0UmF3WSgpLWUxLmdldFJhd1koKSkpIHsKICAgICAgICAgICAgbUlzU2Nyb2xsaW5nID0gdHJ1ZTsKICAgICAgICAgICAgLy8gbUxheW91dFBhcmFtcy54IC09IGRpc3RhbmNlWDsKICAgICAgICAgICAgbUxheW91dFBhcmFtcy54ID0gKGludCkgKG1Ib3Jpem9udGFsTWFyZ2luICsgKGUyLmdldFJhd1goKS1lMS5nZXRSYXdYKCkpKTsKICAgICAgICAgICAgdXBkYXRlV2luZG93KCk7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gc3VwZXIuaGFuZGxlU2Nyb2xsKGUxLCBlMiwgZGlzdGFuY2VYLCBkaXN0YW5jZVkpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgaGFuZGxlU2Nyb2xsRmluaXNoZWQoTW90aW9uRXZlbnQgZSkgewogICAgICAgIGlmIChFTkFCTEVfU0NST0xMKSB7CiAgICAgICAgICAgIGludCBkZWx0YSA9IChpbnQpIChlLmdldFJhd1goKSAtIG1MYXN0UmF3WCk7CiAgICAgICAgICAgIGlmIChNYXRoLmFicyhkZWx0YSkgPiAobVNjcmVlbkhlaWdodCA+PiAxKSkgewogICAgICAgICAgICAgICAgYW5pbWF0ZUhpZGUoZGVsdGEgPCAwID8gU1dJUEVfRElSRUNUSU9OX0xFRlQgOiBTV0lQRV9ESVJFQ1RJT05fUklHSFQpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgYW5pbWF0ZVJlc2V0KCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgc2NoZWR1bGVIaWRlKCk7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>.getRootView()</text>
+        <text>!</text>
       </register>
-      <register name="6" type="4">
-        <text>View</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>0</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5kVmlld0J5SWQoKQo=</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIGhhbmRsZVNjcm9sbEZpbmlzaGVkKE1vdGlvbkV2ZW50IGUpIHsKICAgICAgICAvLyBzY2hlZHVsZUhpZGUoKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">aWYgKERFQlVHKSA=</text>
       </register>
       <register name="8" type="4">
-        <text>setContentView();</text>
+        <text>(</text>
       </register>
       <register name="z" type="4">
         <text>loadIcon(mIcon, mNativeAd.getAdIcon().getUrl())</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtQ29udGVudFZpZXdcPg==</last-search>
+      <last-search encoding="base64">XDxtRGlzbWlzc1NjcmVlbnNob3RWaWV3UnVubmFibGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtQ29udGVudFZpZXdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtRGlzbWlzc1NjcmVlbnNob3RWaWV3UnVubmFibGVcPg==</last-pattern>
       <last-replace>(getContext())</last-replace>
       <last-substitute>(context)</last-substitute>
       <last-dir>1</last-dir>
@@ -1252,6 +1254,20 @@
         <entry encoding="base64">XDxpc01vdmVhYmxlXD4=</entry>
         <entry encoding="base64">XDxzaG91bGRIYW5kbGVGbGluZ1NlbGZcPg==</entry>
         <entry encoding="base64">XDxtQ29udGVudFZpZXdcPg==</entry>
+        <entry>showSc</entry>
+        <entry>handleC</entry>
+        <entry>handleFl</entry>
+        <entry>postD</entry>
+        <entry>removeCa</entry>
+        <entry>disap</entry>
+        <entry encoding="base64">XDxoaWRlXD4=</entry>
+        <entry>removeC</entry>
+        <entry encoding="base64">XDxtSGFuZGxlclw+</entry>
+        <entry encoding="base64">XDxyZW1vdmVDYWxsYmFja3NcPg==</entry>
+        <entry>setOnC</entry>
+        <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
+        <entry encoding="base64">XDxkaXNtaXNzU2NyZWVuc2hvdFZpZXdJZk5lY2Vzc2FyeVw+</entry>
+        <entry encoding="base64">XDxtRGlzbWlzc1NjcmVlbnNob3RWaWV3UnVubmFibGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxjb250ZXh0XD4vbUNvbnRleHQvZw==</entry>
@@ -1275,9 +1291,9 @@
         <entry encoding="base64">YWN0aW9uIA==</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>w</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
