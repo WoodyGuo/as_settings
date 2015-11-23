@@ -831,7 +831,7 @@
         <text encoding="base64">ICAgICAgICAgICAgU2VsZkFuYWx5c2lzLmxvZ05vcm1hbEV2ZW50KGdldENvbnRleHQoKSwgIkNUIiwgMik7Cg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtQ2FjaGVEaXJcPg==</text>
+        <text>loader</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -874,9 +874,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtQ2FjaGVEaXJcPg==</last-search>
+      <last-search>loader</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtQ2FjaGVEaXJcPg==</last-pattern>
+      <last-pattern>loader</last-pattern>
       <last-replace>(getContext())</last-replace>
       <last-substitute>(context)</last-substitute>
       <last-dir>1</last-dir>
@@ -955,6 +955,7 @@
         <entry encoding="base64">XDxCaXRtYXBMb2FkZXJcPg==</entry>
         <entry encoding="base64">XDxtQml0bWFwTG9hZGVyXD4=</entry>
         <entry encoding="base64">XDxtQ2FjaGVEaXJcPg==</entry>
+        <entry>loader</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxjb250ZXh0XD4vbUNvbnRleHQvZw==</entry>
