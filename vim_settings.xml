@@ -88,10 +88,11 @@
         <mark key="." line="51" column="30" />
         <mark key="[" line="51" column="30" />
       </file>
-      <file name="E:/Apps/LazySwipe/build.gradle" timestamp="1448012526491">
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="22" column="22" />
-        <mark key="[" line="22" column="21" />
+      <file name="E:/Apps/LazySwipe/build.gradle" timestamp="1448333626899">
+        <mark key="]" line="23" column="23" />
+        <mark key="^" line="22" column="21" />
+        <mark key="." line="23" column="23" />
+        <mark key="[" line="23" column="22" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/Constants.java" timestamp="1448243054119">
         <mark key="'" line="0" column="0" />
@@ -153,6 +154,12 @@
         <mark key="^" line="39" column="57" />
         <mark key="." line="39" column="57" />
         <mark key="[" line="39" column="55" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/boostplus/BoostPlusAdHelper.java" timestamp="1448333113648">
+        <mark key="]" line="61" column="66" />
+        <mark key="^" line="61" column="46" />
+        <mark key="." line="61" column="66" />
+        <mark key="[" line="61" column="66" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/AbsPopWindowAdHelper.java" timestamp="1448002323652">
         <mark key="'" line="144" column="29" />
@@ -237,6 +244,9 @@
         <mark key="." line="249" column="59" />
         <mark key="[" line="249" column="30" />
       </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/recommend/HolaFamilyAdapterController.java" timestamp="1448333191991">
+        <mark key="'" line="118" column="8" />
+      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/util/TaskKiller.java" timestamp="1447990366568">
         <mark key="'" line="138" column="36" />
         <mark key="]" line="70" column="76" />
@@ -250,6 +260,12 @@
         <mark key="^" line="40" column="11" />
         <mark key="." line="40" column="11" />
         <mark key="[" line="39" column="45" />
+      </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/GamePreloadController.java" timestamp="1448333058662">
+        <mark key="]" line="94" column="62" />
+        <mark key="^" line="94" column="62" />
+        <mark key="." line="94" column="62" />
+        <mark key="[" line="94" column="56" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/LoadAdConfigRunnable.java" timestamp="1448242889834">
         <mark key="'" line="37" column="19" />
@@ -328,6 +344,13 @@
         <mark key="." line="74" column="33" />
         <mark key="[" line="74" column="20" />
       </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/game/GameOnlineAdapter.java" timestamp="1448333087081">
+        <mark key="'" line="587" column="28" />
+        <mark key="]" line="447" column="44" />
+        <mark key="^" line="447" column="44" />
+        <mark key="." line="447" column="44" />
+        <mark key="[" line="447" column="37" />
+      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/widget/ScreenIndicatorWaterView.java" timestamp="1448005280046">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="467" column="32" />
@@ -349,12 +372,12 @@
         <mark key="." line="75" column="62" />
         <mark key="[" line="75" column="54" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipeApplication.java" timestamp="1448332240278">
-        <mark key="'" line="274" column="0" />
-        <mark key="]" line="255" column="59" />
-        <mark key="^" line="255" column="59" />
-        <mark key="." line="255" column="59" />
-        <mark key="[" line="255" column="57" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipeApplication.java" timestamp="1448332895090">
+        <mark key="'" line="282" column="0" />
+        <mark key="]" line="262" column="35" />
+        <mark key="^" line="262" column="35" />
+        <mark key="." line="262" column="35" />
+        <mark key="[" line="261" column="50" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" timestamp="1448267730900">
         <mark key="'" line="94" column="21" />
@@ -423,10 +446,6 @@
         <mark key="." line="257" column="15" />
         <mark key="[" line="256" column="40" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/Fan.java" timestamp="1448257414752">
-        <mark key="]" line="1186" column="8" />
-        <mark key="[" line="1181" column="0" />
-      </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/SwipeService.java" timestamp="1448249086733">
         <mark key="'" line="755" column="12" />
       </file>
@@ -475,8 +494,10 @@
       <file name="E:/Apps/LazySwipe/app/src/global/res/values-pt/strings.xml" timestamp="1447852252673">
         <mark key="'" line="519" column="4" />
       </file>
-      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/RecentWeatherView.java" timestamp="1448332329674">
-        <mark key="'" line="974" column="53" />
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/RecentWeatherView.java" timestamp="1448332989196">
+        <mark key="'" line="809" column="25" />
+        <mark key="]" line="985" column="35" />
+        <mark key="[" line="978" column="0" />
       </file>
       <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/fan/notification/GroupedNotificationsAdapter.java" timestamp="1447987900052">
         <mark key="'" line="33" column="15" />
@@ -683,6 +704,12 @@
         <mark key="." line="133" column="22" />
         <mark key="[" line="133" column="20" />
       </file>
+      <file name="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/search/SearchUtils.java" timestamp="1448333172519">
+        <mark key="]" line="46" column="11" />
+        <mark key="^" line="46" column="11" />
+        <mark key="." line="46" column="11" />
+        <mark key="[" line="45" column="66" />
+      </file>
       <file name="/fragment.java" timestamp="1448271382464">
         <mark key="[" line="0" column="0" />
       </file>
@@ -719,11 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
-      <jump line="253" column="22" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
-      <jump line="341" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
-      <jump line="151" column="21" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
-      <jump line="384" column="16" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
       <jump line="501" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
       <jump line="435" column="9" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
       <jump line="97" column="12" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/cleaner/ClipboardPopView.java" />
@@ -816,13 +838,18 @@
       <jump line="115" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/WeatherPopupView.java" />
       <jump line="307" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/WeatherPopupView.java" />
       <jump line="275" column="38" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/RecentWeatherView.java" />
-      <jump line="809" column="25" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/RecentWeatherView.java" />
       <jump line="852" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/RecentWeatherView.java" />
       <jump line="974" column="53" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/RecentWeatherView.java" />
+      <jump line="454" column="0" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/game/GameOnlineAdapter.java" />
+      <jump line="424" column="52" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/game/GameOnlineAdapter.java" />
+      <jump line="587" column="25" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/game/GameOnlineAdapter.java" />
+      <jump line="588" column="28" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/ad/game/GameOnlineAdapter.java" />
+      <jump line="809" column="25" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/feed/weather/RecentWeatherView.java" />
+      <jump line="118" column="8" filename="E:/Apps/LazySwipe/app/src/main/java/com/lazyswipe/features/recommend/HolaFamilyAdapterController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>71</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icG9wdXBfc2hhcmUiPiJTaGFyZSI8L3N0cmluZz4K</text>
@@ -834,40 +861,40 @@
         <text encoding="base64">XDxtQml0bWFwTG9hZGVyXD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>71</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ExternalCacheDirectory</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>, &quot;search&quot;).</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>71</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRUaGVtZShuZXcgT25saW5lVGhlbWUoY29udGV4dCwgVEhFTUVfSEFMTE9XRUVOLCAiaGFsbG93ZWVuMjAxNSIsIFIuc3RyaW5nLnRoZW1lX25hbWVfaGFsbG93ZWVuLCBSLnN0eWxlLmZhbkhhbGxvd2VlbiwgImhhbGxvd2VlbjIwMTUuanBnIiwgImhhbGxvd2VlbiIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBnZXRDb250ZXh0KCkuZ2V0RXh0ZXJuYWxDYWNoZURpcigpLmdldEFic29sdXRlUGF0aCgpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgdCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZ2V0Q29udGV4dCgpLmdldENhY2hlRGlyKCkuZ2V0QWJzb2x1dGVQYXRoKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgaWdub3JlZCkge30KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text>ExternalCacheDirectory</text>
       </register>
       <register name="6" type="4">
-        <text>HALLOWEEN</text>
+        <text>, &quot;boost&quot;)</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new File(</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>, &quot;game&quot;)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIDChojihojmhojWhojKhojehojEwoaI2oaIxoaIxMQo=</text>
+      <register name="8" type="4">
+        <text>new File(</text>
       </register>
       <register name="z" type="4">
         <text>loadIcon(mIcon, mNativeAd.getAdIcon().getUrl())</text>
@@ -903,6 +930,8 @@
         <entry encoding="base64">XDxCaXRtYXBMb2FkZXJcPg==</entry>
         <entry encoding="base64">XDxtQ2FjaGVEaXJcPg==</entry>
         <entry>loader</entry>
+        <entry>loadBi</entry>
+        <entry>getCus</entry>
         <entry encoding="base64">XDxtQml0bWFwTG9hZGVyXD4=</entry>
       </history-search>
       <history-cmd>
@@ -924,8 +953,8 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoImplementation</entry>
-        <entry>w</entry>
         <entry>action FindUsages</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
